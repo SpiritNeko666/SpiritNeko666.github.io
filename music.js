@@ -6,6 +6,8 @@ function preload() {
 }
 
 function setup() {
+  createCanvas(400,400);
+  background(0)
   AlphysTakesAction.setVolume(2.5);
     Asgore.setVolume(2.5);
 
