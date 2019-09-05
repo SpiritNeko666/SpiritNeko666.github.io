@@ -5,8 +5,8 @@ function preload() {
   AlphysTakesAction = loadSound('Alphys takes action.mp3');
   AsgoreIntro = loadSound('AsgoreIntro.mp3');
   HopesAndDreams = loadSound('Hopes and Dreams.mp3');
-  SpiderDance = loadSound('SpiderDance.mp3');
-  MySong = loadSound('MySong.mp3');
+  SpiderDance = loadSound('Spider dance.mp3');
+  MySong = loadSound('My song.mp3');
   Asgore = loadSound('Asgore+Intro.mp3');
 
 
