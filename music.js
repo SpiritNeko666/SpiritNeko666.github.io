@@ -13,7 +13,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(710, 200);
+  createCanvas(610, 200);
   volume = createSlider();
   volume.style('width', '80px');
 textStyle(BOLD);
@@ -158,8 +158,8 @@ function draw() {
   var vol = volume.value();
   push();
   fill('red')
-  text('volume:',600,150); 
-  text(vol, 680,150);
+  text('volume:',460,150); 
+  text(vol, 540,150);
   pop();
   AlphysTakesAction.setVolume(vol);
   AsgoreIntro.setVolume(vol);
