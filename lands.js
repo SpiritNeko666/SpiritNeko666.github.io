@@ -1,10 +1,9 @@
-
- function Hit(x, y) {
+ function Alien(x, y) {
   this.x = x;
   this.y = y;
   this.r = 30;
   this.xdir = 4;
-  this.shiftDown = function() { 
+   this.shiftDown = function() { 
    this.xdir *= -1;
   this.y += this.r;
    }
