@@ -9,15 +9,17 @@ function preload() {
   HopesAndDreams = loadSound('Hopes and Dreams.mp3');
   SpiderDance = loadSound('Spider dance.mp3');
   MySong = loadSound('My song.mp3');
+  MySong2 = loadSound('My Second Song.mp3');
+
   Asgore = loadSound('Asgore+Intro.mp3');
 }
 
 function setup() {
   createCanvas(610, 200);
-  volume = createSlider();
+  volume = createSlider(0,1);
   volume.style('width', '80px');
-textStyle(BOLD);
-textSize(20);
+  textStyle(BOLD);
+  textSize(20);
 
 
   fft = new p5.FFT();
@@ -56,11 +58,15 @@ textSize(20);
   button6.mousePressed(stopMusic);
   button6.mousePressed(playSong6);
 
-  button7 = createButton('PauseMusic');
-  button7.mousePressed(pauseMusic);
+   button7 = createButton('My Second Song');
+  button7.mousePressed(stopMusic);
+  button7.mousePressed(playSong7);
 
-  button8 = createButton('StopMusic');
-  button8.mousePressed(stopMusic);
+  button8 = createButton('PauseMusic');
+  button8.mousePressed(pauseMusic);
+
+  button9 = createButton('StopMusic');
+  button9.mousePressed(stopMusic);
 }
 
 function playSong1() {
@@ -70,6 +76,7 @@ function playSong1() {
   SpiderDance.stop();
   MySong.stop()
   Asgore.stop();
+  MySong2.stop()
 
   AlphysTakesAction.play();
 
@@ -82,6 +89,7 @@ function playSong2() {
   SpiderDance.stop();
   MySong.stop()
   Asgore.stop();
+  MySong2.stop()
 
   AsgoreIntro.play();
 
@@ -93,6 +101,8 @@ function playSong3() {
   HopesAndDreams.stop();
   SpiderDance.stop();
   MySong.stop()
+    MySong2.stop()
+
   HopesAndDreams.play();
 }
 
@@ -104,6 +114,7 @@ function playSong4() {
   SpiderDance.stop();
   MySong.stop()
   Asgore.stop();
+  MySong2.stop()
 
   SpiderDance.play();
 }
@@ -115,6 +126,7 @@ function playSong5() {
   SpiderDance.stop();
   MySong.stop()
   Asgore.stop();
+  MySong2.stop()
 
   MySong.play();
 }
@@ -126,8 +138,22 @@ function playSong6() {
   SpiderDance.stop();
   MySong.stop()
   Asgore.stop();
+  MySong2.stop()
 
   Asgore.play();
+}
+
+
+function playSong7() {
+  AlphysTakesAction.stop();
+  AsgoreIntro.stop();
+  HopesAndDreams.stop();
+  SpiderDance.stop();
+  MySong.stop()
+  Asgore.stop();
+  MySong2.stop()
+
+  MySong2.play();
 }
 
 function pauseMusic() {
@@ -137,6 +163,7 @@ function pauseMusic() {
   SpiderDance.pause();
   MySong.pause();
   Asgore.pause();
+  MySong2.pause();
 
 
 }
@@ -148,6 +175,7 @@ function stopMusic() {
   SpiderDance.stop();
   MySong.stop();
   Asgore.stop();
+  MySong2.stop()
 
 
 }
@@ -156,17 +184,19 @@ function draw() {
   background(0);
 
   var vol = volume.value();
+  
   push();
   fill('red')
-  text('volume:',460,150); 
-  text(vol, 540,150);
+  text('volume:', 460, 150);
+  text(vol, 540, 150);
   pop();
   AlphysTakesAction.setVolume(vol);
   AsgoreIntro.setVolume(vol);
   HopesAndDreams.setVolume(vol);
   SpiderDance.setVolume(vol);
   MySong.setVolume(vol);
-  
+  MySong2.setVolume(vol);
+
 
 
   // Get the average (root mean square) amplitude
