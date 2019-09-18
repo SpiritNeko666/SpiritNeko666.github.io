@@ -10,6 +10,7 @@ function preload() {
   SpiderDance = loadSound('Spider dance.mp3');
   MySong = loadSound('My song.mp3');
   MySong2 = loadSound('My Second Song.mp3');
+  Megalovania = loadSound('Megalovania');
 
   Asgore = loadSound('Asgore+Intro.mp3');
 }
@@ -62,11 +63,15 @@ function setup() {
   button7.mousePressed(stopMusic);
   button7.mousePressed(playSong7);
 
-  button8 = createButton('PauseMusic');
-  button8.mousePressed(pauseMusic);
+     button8 = createButton('Megalovania Piano-Guitar Duet');
+  button8.mousePressed(stopMusic);
+  button8.mousePressed(playSong8);
+  
+  button14 = createButton('PauseMusic');
+  button14.mousePressed(pauseMusic);
 
-  button9 = createButton('StopMusic');
-  button9.mousePressed(stopMusic);
+  button15 = createButton('StopMusic');
+  button15.mousePressed(stopMusic);
 }
 
 function playSong1() {
@@ -77,6 +82,7 @@ function playSong1() {
   MySong.stop()
   Asgore.stop();
   MySong2.stop()
+Megalovania.stop()
 
   AlphysTakesAction.play();
 
@@ -90,6 +96,7 @@ function playSong2() {
   MySong.stop()
   Asgore.stop();
   MySong2.stop()
+  Megalovania.stop()
 
   AsgoreIntro.play();
 
@@ -102,6 +109,7 @@ function playSong3() {
   SpiderDance.stop();
   MySong.stop()
     MySong2.stop()
+Megalovania.stop()
 
   HopesAndDreams.play();
 }
@@ -115,6 +123,7 @@ function playSong4() {
   MySong.stop()
   Asgore.stop();
   MySong2.stop()
+Megalovania.stop()
 
   SpiderDance.play();
 }
@@ -127,6 +136,7 @@ function playSong5() {
   MySong.stop()
   Asgore.stop();
   MySong2.stop()
+Megalovania.stop()
 
   MySong.play();
 }
@@ -139,6 +149,7 @@ function playSong6() {
   MySong.stop()
   Asgore.stop();
   MySong2.stop()
+Megalovania.stop()
 
   Asgore.play();
 }
@@ -152,10 +163,23 @@ function playSong7() {
   MySong.stop()
   Asgore.stop();
   MySong2.stop()
+Megalovania.stop()
 
   MySong2.play();
 }
 
+function playSong8() {
+  AlphysTakesAction.stop();
+  AsgoreIntro.stop();
+  HopesAndDreams.stop();
+  SpiderDance.stop();
+  MySong.stop()
+  Asgore.stop();
+  MySong2.stop()
+Megalovania.stop()
+
+  Megalovania.play();
+}
 function pauseMusic() {
   AlphysTakesAction.pause();
   AsgoreIntro.pause();
@@ -164,7 +188,7 @@ function pauseMusic() {
   MySong.pause();
   Asgore.pause();
   MySong2.pause();
-
+Megalovania.pause();
 
 }
 
@@ -176,7 +200,7 @@ function stopMusic() {
   MySong.stop();
   Asgore.stop();
   MySong2.stop()
-
+Megalovania.stop()
 
 }
 
