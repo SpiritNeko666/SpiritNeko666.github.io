@@ -43,7 +43,7 @@ function draw() {
   background(100);
     
     push()
-    fill('white')
+    fill('black')
     rect(0,0,50,400)
     rect(50,350,550,400)
     rect(50,0,550,50)
