@@ -33,39 +33,38 @@ function setup() {
   analyzer.setInput(SpiderDance);
   analyzer.setInput(MySong);
 
-
+  button5 = createButton('MySong');
+  button5.mousePressed(stopMusic);
+  button5.mousePressed(playSong5);
+  
+  button7 = createButton('My Second Song');
+  button7.mousePressed(stopMusic);
+  button7.mousePressed(playSong7);
+  
+  
+  button8 = createButton('Megalovania Piano-Guitar Duet');
+  button8.mousePressed(stopMusic);
+  button8.mousePressed(playSong8);
 
   button = createButton('AlphysTakesAction');
   button.mousePressed(stopMusic);
   button.mousePressed(playSong1);
 
-  button2 = createButton('AsgoreIntro');
-  button2.mousePressed(stopMusic);
-  button2.mousePressed(playSong2);
-
-  button3 = createButton('HopesAndDreams');
-  button3.mousePressed(stopMusic);
-  button3.mousePressed(playSong3);
-
   button4 = createButton('SpiderDance');
   button4.mousePressed(stopMusic);
   button4.mousePressed(playSong4);
 
-  button5 = createButton('MySong');
-  button5.mousePressed(stopMusic);
-  button5.mousePressed(playSong5);
-
+  button3 = createButton('HopesAndDreams');
+  button3.mousePressed(stopMusic);
+  button3.mousePressed(playSong3);
+  
   button6 = createButton('Asgore+Intro');
   button6.mousePressed(stopMusic);
   button6.mousePressed(playSong6);
-
-   button7 = createButton('My Second Song');
-  button7.mousePressed(stopMusic);
-  button7.mousePressed(playSong7);
-
-     button8 = createButton('Megalovania Piano-Guitar Duet');
-  button8.mousePressed(stopMusic);
-  button8.mousePressed(playSong8);
+  
+  button2 = createButton('AsgoreIntro');
+  button2.mousePressed(stopMusic);
+  button2.mousePressed(playSong2);
   
   button14 = createButton('PauseMusic');
   button14.mousePressed(pauseMusic);
@@ -205,7 +204,7 @@ Megalovania.stop()
 }
 
 function draw() {
-  background(0);
+  background(255);
 
   var vol = volume.value();
   
@@ -220,6 +219,8 @@ function draw() {
   SpiderDance.setVolume(vol);
   MySong.setVolume(vol);
   MySong2.setVolume(vol);
+    Asgore.setVolume(vol);
+  Megalovania.setVolume(vol);
 
 
 
@@ -237,6 +238,24 @@ function draw() {
 
 
   noStroke();
+  if (SpiderDance.isPlaying())
+  fill(255, 0, 255)
+   if (MySong.isPlaying())
+  fill(0, 255, 255)
+     if (MySong2.isPlaying())
+  fill(0, 255, 255)
+        if (Megalovania.isPlaying())
+fill(0,0,255)
+  
+  
+
+   if (AlphysTakesAction.isPlaying())
+  fill(255, 255, 0)
+   if (HopesAndDreams.isPlaying())
+  fill(255, 0, 0)
+   if (AsgoreIntro.isPlaying())
+  fill(255, 0, 0)
+ if (Asgore.isPlaying())
   fill(255, 0, 0)
   for (let i = 0; i < spectrum.length; i++) {
     let x = map(i, 0, spectrum.length, 0, width);
