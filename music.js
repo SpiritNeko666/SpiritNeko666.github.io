@@ -70,40 +70,43 @@ function setup() {
 }
 
 function playSong1() {
-  AlphysTakesAction.stop();
+    AlphysTakesAction.stop();
   AsgoreIntro.stop();
   HopesAndDreams.stop();
   SpiderDance.stop();
-  MySong.stop()
+  MySong.stop();
   Asgore.stop();
   MySong2.stop()
 Megalovania.stop()
+
 
   AlphysTakesAction.play();
 
 }
 
 function playSong2() {
-  AlphysTakesAction.stop();
+    AlphysTakesAction.stop();
   AsgoreIntro.stop();
   HopesAndDreams.stop();
   SpiderDance.stop();
-  MySong.stop()
+  MySong.stop();
   Asgore.stop();
   MySong2.stop()
-  Megalovania.stop()
+Megalovania.stop()
+
 
   AsgoreIntro.play();
 
 }
 
 function playSong3() {
-  AlphysTakesAction.stop();
+    AlphysTakesAction.stop();
   AsgoreIntro.stop();
   HopesAndDreams.stop();
   SpiderDance.stop();
-  MySong.stop()
-    MySong2.stop()
+  MySong.stop();
+  Asgore.stop();
+  MySong2.stop()
 Megalovania.stop()
 
   HopesAndDreams.play();
@@ -111,27 +114,29 @@ Megalovania.stop()
 
 function playSong4() {
 
-  AlphysTakesAction.stop();
+    AlphysTakesAction.stop();
   AsgoreIntro.stop();
   HopesAndDreams.stop();
   SpiderDance.stop();
-  MySong.stop()
+  MySong.stop();
   Asgore.stop();
   MySong2.stop()
 Megalovania.stop()
+
 
   SpiderDance.play();
 }
 
 function playSong5() {
-  AlphysTakesAction.stop();
+    AlphysTakesAction.stop();
   AsgoreIntro.stop();
   HopesAndDreams.stop();
   SpiderDance.stop();
-  MySong.stop()
+  MySong.stop();
   Asgore.stop();
   MySong2.stop()
 Megalovania.stop()
+
 
   MySong.play();
 }
@@ -151,24 +156,25 @@ Megalovania.stop()
 
 
 function playSong7() {
-  AlphysTakesAction.stop();
+    AlphysTakesAction.stop();
   AsgoreIntro.stop();
   HopesAndDreams.stop();
   SpiderDance.stop();
-  MySong.stop()
+  MySong.stop();
   Asgore.stop();
   MySong2.stop()
 Megalovania.stop()
+
 
   MySong2.play();
 }
 
 function playSong8() {
-  AlphysTakesAction.stop();
+    AlphysTakesAction.stop();
   AsgoreIntro.stop();
   HopesAndDreams.stop();
   SpiderDance.stop();
-  MySong.stop()
+  MySong.stop();
   Asgore.stop();
   MySong2.stop()
 Megalovania.stop()
