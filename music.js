@@ -235,17 +235,18 @@ function draw() {
 
 
   noStroke();
-  if (SpiderDance.isPlaying())
-  fill(255, 0, 255)
+ 
    if (MySong.isPlaying())
   fill(0, 255, 255)
      if (MySong2.isPlaying())
-  fill(0, 255, 255)
+  fill(255, 100, 0)
         if (Megalovania.isPlaying())
 fill(0,0,255)
 
    if (AlphysTakesAction.isPlaying())
   fill(255, 255, 0)
+   if (SpiderDance.isPlaying())
+  fill(255, 0, 255)
    if (HopesAndDreams.isPlaying())
   fill(255, 0, 0)
    if (AsgoreIntro.isPlaying())
