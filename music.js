@@ -17,7 +17,7 @@ function preload() {
 
 function setup() {
   createCanvas(610, 200);
-  volume = createSlider(0,1);
+  volume = createSlider(0,100);
   volume.style('width', '80px');
   textStyle(BOLD);
   textSize(20);
@@ -32,38 +32,34 @@ function setup() {
   analyzer.setInput(HopesAndDreams);
   analyzer.setInput(SpiderDance);
   analyzer.setInput(MySong);
+  analyzer.setInput(MySong2);
+  analyzer.setInput(Megalovania);
+    analyzer.setInput(Asgore);
+
 
   button5 = createButton('MySong');
-  button5.mousePressed(stopMusic);
   button5.mousePressed(playSong5);
   
   button7 = createButton('My Second Song');
-  button7.mousePressed(stopMusic);
   button7.mousePressed(playSong7);
   
   
   button8 = createButton('Megalovania Piano-Guitar Duet');
-  button8.mousePressed(stopMusic);
   button8.mousePressed(playSong8);
 
   button = createButton('AlphysTakesAction');
-  button.mousePressed(stopMusic);
   button.mousePressed(playSong1);
 
   button4 = createButton('SpiderDance');
-  button4.mousePressed(stopMusic);
   button4.mousePressed(playSong4);
 
   button3 = createButton('HopesAndDreams');
-  button3.mousePressed(stopMusic);
   button3.mousePressed(playSong3);
   
   button6 = createButton('Asgore+Intro');
-  button6.mousePressed(stopMusic);
   button6.mousePressed(playSong6);
   
   button2 = createButton('AsgoreIntro');
-  button2.mousePressed(stopMusic);
   button2.mousePressed(playSong2);
   
   button14 = createButton('PauseMusic');
@@ -204,15 +200,12 @@ Megalovania.stop()
 }
 
 function draw() {
-  background(255);
+  background(0);
 
   var vol = volume.value();
   
-  push();
-  fill('red')
   text('volume:', 460, 150);
   text(vol, 540, 150);
-  pop();
   AlphysTakesAction.setVolume(vol);
   AsgoreIntro.setVolume(vol);
   HopesAndDreams.setVolume(vol);
@@ -228,12 +221,10 @@ function draw() {
 
   let rms = analyzer.getLevel();
 
-  push()
   strokeWeight(2)
-  stroke('red')
-  fill('red')
+ 
+  
   ellipse(width - 70, height / 3, 10 + rms * 10, 10 + rms * 10);
-  pop()
   let spectrum = fft.analyze();
 
 
@@ -246,8 +237,6 @@ function draw() {
   fill(0, 255, 255)
         if (Megalovania.isPlaying())
 fill(0,0,255)
-  
-  
 
    if (AlphysTakesAction.isPlaying())
   fill(255, 255, 0)
@@ -257,6 +246,7 @@ fill(0,0,255)
   fill(255, 0, 0)
  if (Asgore.isPlaying())
   fill(255, 0, 0)
+  
   for (let i = 0; i < spectrum.length; i++) {
     let x = map(i, 0, spectrum.length, 0, width);
     let h = -height + map(spectrum[i], 0, 255, height, 0);
