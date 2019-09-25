@@ -4,6 +4,7 @@ function setup() {
 
 function draw() {
   background(102);
+  resizeCanvas(windowWidth, windowHieght);
 
   
   fill('cyan')
