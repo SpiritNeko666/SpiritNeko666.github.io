@@ -7,18 +7,20 @@ function draw() {
   resizeCanvas(windowWidth, windowHieght);
 
   
-  fill('cyan')
-  stroke('cyan');
+  fill('lime')
+  stroke('black');
   push();
   translate(width * 0.5, height * 0.5);
   rotate(frameCount / 50.0);
   star(0, 0, 55, 10, 10);
   pop();
   push();
+  fill('black')
+  stroke('lime');
   translate(width * 0.5, height * 0.5);
   rotate(frameCount / -50.0);
   star(0, 0, 55, 15, 10);
-  
+  pop();
 }
 //Turn in: Your own stars with color.
 function star(x, y, radius1, radius2, npoints) {
