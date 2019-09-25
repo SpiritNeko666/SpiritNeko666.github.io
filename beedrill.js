@@ -25,7 +25,7 @@ function Beedrill(x,y,xSpeed,ySpeed) {
     line(-25, -19, 15, -5);//√
       line(-35, -0, 15, -0);//√
 
-    stroke("yellow")
+    stroke("gold")
 
     line(-15, 15, 15, 5);//√
     line(-15, -15, 15, -5);//√
@@ -46,7 +46,7 @@ function Beedrill(x,y,xSpeed,ySpeed) {
     strokeWeight(1);
 
     ellipse(20, -0, 20, 18);//√
-    fill('yellow')
+    fill('gold')
     ellipse(10, -0, 45, 10);//√
     push()
     strokeWeight(12.5);
