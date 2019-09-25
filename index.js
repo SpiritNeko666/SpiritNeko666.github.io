@@ -15,8 +15,7 @@ function draw() {
   star(0, 0, 55, 10, 10);
   pop();
   push();
-  fill('black')
-  stroke('lime');
+  
   translate(width * 0.5, height * 0.5);
   rotate(frameCount / -50.0);
   star(0, 0, 55, 15, 10);
