@@ -5,7 +5,8 @@ function setup() {
 function draw() {
   background(102);
 
-  
+  resizeCanvas(windowWidth, windowHeight);
+
   
   push();
   fill('lime')
