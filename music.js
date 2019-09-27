@@ -16,9 +16,10 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(610, 200);
+  createCanvas(windowWidth, 200);
   volume = createSlider(0,100);
   volume.style('width', '80px');
+  
   textStyle(BOLD);
   textSize(20);
 
@@ -39,7 +40,6 @@ function setup() {
 
   button5 = createButton('MySong');
   button5.mousePressed(playSong5);
-  
   button7 = createButton('My Second Song');
   button7.mousePressed(playSong7);
   
@@ -210,8 +210,7 @@ function draw() {
 
   var vol = volume.value();
   
-  text('volume:', 460, 150);
-  text(vol, 540, 150);
+
   AlphysTakesAction.setVolume(vol);
   AsgoreIntro.setVolume(vol);
   HopesAndDreams.setVolume(vol);
@@ -229,7 +228,8 @@ function draw() {
 
   strokeWeight(2)
  
-  
+    text('volume:', windowWidth-140, 150);
+  text(vol, windowWidth-60, 150);
   ellipse(width - 70, height / 3, 10 + rms * 10, 10 + rms * 10);
   let spectrum = fft.analyze();
 
@@ -260,4 +260,7 @@ fill(0,0,255)
     rect(x, height, width / spectrum.length, h);
   }
   endShape();
+}
+function windowResized() {
+  resizeCanvas(windowWidth, 200);
 }
