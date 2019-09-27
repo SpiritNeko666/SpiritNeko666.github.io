@@ -11,8 +11,8 @@ function preload() {
   MySong = loadSound('My song.mp3');
   MySong2 = loadSound('My Second Song.mp3');
   Megalovania = loadSound('Megalovania');
+  Waterfall = loadSound('Waterfall.mp3');
 
-  Asgore = loadSound('Asgore+Intro.mp3');
 }
 
 function setup() {
@@ -35,7 +35,7 @@ function setup() {
   analyzer.setInput(MySong);
   analyzer.setInput(MySong2);
   analyzer.setInput(Megalovania);
-    analyzer.setInput(Asgore);
+  analyzer.setInput(Waterfall);
 
 
   button5 = createButton('MySong');
@@ -55,13 +55,13 @@ function setup() {
 
   button3 = createButton('HopesAndDreams');
   button3.mousePressed(playSong3);
-  
-  button6 = createButton('Asgore+Intro');
-  button6.mousePressed(playSong6);
+ 
   
   button2 = createButton('AsgoreIntro');
   button2.mousePressed(playSong2);
-  
+    
+  button9 = createButton('Waterfall');
+  button9.mousePressed(playSong9);
   button14 = createButton('PauseMusic');
   button14.mousePressed(pauseMusic);
 
@@ -75,9 +75,9 @@ function playSong1() {
   HopesAndDreams.stop();
   SpiderDance.stop();
   MySong.stop();
-  Asgore.stop();
   MySong2.stop()
 Megalovania.stop()
+Waterfall.stop()
 
 
   AlphysTakesAction.play();
@@ -90,9 +90,9 @@ function playSong2() {
   HopesAndDreams.stop();
   SpiderDance.stop();
   MySong.stop();
-  Asgore.stop();
   MySong2.stop()
 Megalovania.stop()
+Waterfall.stop()
 
 
   AsgoreIntro.play();
@@ -105,9 +105,9 @@ function playSong3() {
   HopesAndDreams.stop();
   SpiderDance.stop();
   MySong.stop();
-  Asgore.stop();
   MySong2.stop()
 Megalovania.stop()
+Waterfall.stop()
 
   HopesAndDreams.play();
 }
@@ -119,10 +119,10 @@ function playSong4() {
   HopesAndDreams.stop();
   SpiderDance.stop();
   MySong.stop();
-  Asgore.stop();
   MySong2.stop()
 Megalovania.stop()
 
+Waterfall.stop()
 
   SpiderDance.play();
 }
@@ -133,26 +133,15 @@ function playSong5() {
   HopesAndDreams.stop();
   SpiderDance.stop();
   MySong.stop();
-  Asgore.stop();
   MySong2.stop()
 Megalovania.stop()
+Waterfall.stop()
 
 
   MySong.play();
 }
 
-function playSong6() {
-  AlphysTakesAction.stop();
-  AsgoreIntro.stop();
-  HopesAndDreams.stop();
-  SpiderDance.stop();
-  MySong.stop()
-  Asgore.stop();
-  MySong2.stop()
-Megalovania.stop()
 
-  Asgore.play();
-}
 
 
 function playSong7() {
@@ -161,10 +150,10 @@ function playSong7() {
   HopesAndDreams.stop();
   SpiderDance.stop();
   MySong.stop();
-  Asgore.stop();
   MySong2.stop()
 Megalovania.stop()
 
+Waterfall.stop()
 
   MySong2.play();
 }
@@ -175,11 +164,23 @@ function playSong8() {
   HopesAndDreams.stop();
   SpiderDance.stop();
   MySong.stop();
-  Asgore.stop();
   MySong2.stop()
 Megalovania.stop()
+Waterfall.stop()
 
   Megalovania.play();
+}
+function playSong9() {
+    AlphysTakesAction.stop();
+  AsgoreIntro.stop();
+  HopesAndDreams.stop();
+  SpiderDance.stop();
+  MySong.stop();
+  MySong2.stop()
+Megalovania.stop()
+Waterfall.stop()
+
+  Waterfall.play();
 }
 function pauseMusic() {
   AlphysTakesAction.pause();
@@ -187,10 +188,9 @@ function pauseMusic() {
   HopesAndDreams.pause();
   SpiderDance.pause();
   MySong.pause();
-  Asgore.pause();
   MySong2.pause();
 Megalovania.pause();
-
+Waterfall.pause();
 }
 
 function stopMusic() {
@@ -199,9 +199,9 @@ function stopMusic() {
   HopesAndDreams.stop();
   SpiderDance.stop();
   MySong.stop();
-  Asgore.stop();
   MySong2.stop()
 Megalovania.stop()
+Waterfall.stop()
 
 }
 
@@ -217,8 +217,8 @@ function draw() {
   SpiderDance.setVolume(vol);
   MySong.setVolume(vol);
   MySong2.setVolume(vol);
-    Asgore.setVolume(vol);
   Megalovania.setVolume(vol);
+  Waterfall.setVolume(vol);
 
 
 
@@ -237,22 +237,22 @@ function draw() {
   noStroke();
  
    if (MySong.isPlaying())
-  fill(0, 255, 255)
+  fill('DeepSkyBlue')
      if (MySong2.isPlaying())
-  fill(255, 100, 0)
+  fill('coral')
         if (Megalovania.isPlaying())
-fill(0,0,255)
-
+fill('blue')
+ if (Waterfall.isPlaying())
+  fill('LightSeaGreen')
    if (AlphysTakesAction.isPlaying())
-  fill(255, 255, 0)
+  fill('Gold')
    if (SpiderDance.isPlaying())
-  fill(255, 0, 255)
+  fill('Magenta')
    if (HopesAndDreams.isPlaying())
-  fill(255, 0, 0)
+  fill('Red')
    if (AsgoreIntro.isPlaying())
-  fill(255, 0, 0)
- if (Asgore.isPlaying())
-  fill(255, 0, 0)
+  fill('FireBrick')
+
   
   for (let i = 0; i < spectrum.length; i++) {
     let x = map(i, 0, spectrum.length, 0, width);
