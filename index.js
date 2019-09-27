@@ -5,7 +5,6 @@ function setup() {
 function draw() {
   background(102);
 
-  resizeCanvas(windowWidth, windowHeight);
 
   
   push();
@@ -66,4 +65,7 @@ function star1(x, y, radius1, radius2, npoints) {
     vertex(sy, sx);
   }
   endShape(CLOSE);
+}
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
 }
