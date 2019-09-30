@@ -17,7 +17,7 @@ function preload() {
 
 function setup() {
   createCanvas(windowWidth, 200);
-  volume = createSlider(0,100);
+  volume = createSlider(0,10);
   volume.style('width', '80px');
   
   textStyle(BOLD);
