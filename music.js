@@ -42,15 +42,18 @@ function setup() {
   button5 = createButton('A Heart Of Ice');
   button5.mousePressed(playSong5);
     button5.style('background-color', "DeepSkyBlue");
+  button5.style('color', "white");
 
   button7 = createButton('My Second Song');
   button7.mousePressed(playSong7);
   button7.style('background-color', "coral");
+  button7.style('color', "white");
 
   
   button8 = createButton('Megalovania Piano-Guitar Duet');
   button8.mousePressed(playSong8);
   button8.style('background-color', "blue");
+  button8.style('color', "white");
 
   button = createButton('AlphysTakesAction');
   button.mousePressed(playSong1);
@@ -59,19 +62,23 @@ function setup() {
   button4 = createButton('SpiderDance');
   button4.mousePressed(playSong4);
   button4.style('background-color', "magenta");
+  button4.style('color', "black");
 
   button3 = createButton('HopesAndDreams');
   button3.mousePressed(playSong3);
    button3.style('background-color', "red");
+  button3.style('color', "white");
 
   
   button2 = createButton('AsgoreIntro');
   button2.mousePressed(playSong2);
       button2.style('background-color', "firebrick");
+  button2.style('color', "grey");
 
   button9 = createButton('Waterfall');
   button9.mousePressed(playSong9);
         button9.style('background-color', "LightSeaGreen");
+  button9.style('color', "blue");
 
   button14 = createButton('PauseMusic');
   button14.mousePressed(pauseMusic);
