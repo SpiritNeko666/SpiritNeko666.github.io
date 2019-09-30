@@ -1,3 +1,4 @@
+
 let song, analyzer, fft;
 var volume
 
@@ -38,35 +39,48 @@ function setup() {
   analyzer.setInput(Waterfall);
 
 
-  button5 = createButton('MySong');
+  button5 = createButton('A Heart Of Ice');
   button5.mousePressed(playSong5);
+    button5.style('background-color', "DeepSkyBlue");
+
   button7 = createButton('My Second Song');
   button7.mousePressed(playSong7);
-  
+  button7.style('background-color', "coral");
+
   
   button8 = createButton('Megalovania Piano-Guitar Duet');
   button8.mousePressed(playSong8);
+  button8.style('background-color', "blue");
 
   button = createButton('AlphysTakesAction');
   button.mousePressed(playSong1);
+  button.style('background-color', "gold");
 
   button4 = createButton('SpiderDance');
   button4.mousePressed(playSong4);
+  button4.style('background-color', "magenta");
 
   button3 = createButton('HopesAndDreams');
   button3.mousePressed(playSong3);
- 
+   button3.style('background-color', "red");
+
   
   button2 = createButton('AsgoreIntro');
   button2.mousePressed(playSong2);
-    
+      button2.style('background-color', "firebrick");
+
   button9 = createButton('Waterfall');
   button9.mousePressed(playSong9);
+        button9.style('background-color', "LightSeaGreen");
+
   button14 = createButton('PauseMusic');
   button14.mousePressed(pauseMusic);
+        button14.style('background-color', "grey");
 
   button15 = createButton('StopMusic');
   button15.mousePressed(stopMusic);
+          button15.style('background-color', "grey");
+
 }
 
 function playSong1() {
