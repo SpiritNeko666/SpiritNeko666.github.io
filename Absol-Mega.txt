@@ -1,3 +1,9 @@
-function setup() {
-createA('Absol-Mega.txt', 'Absol-Mega');
- }
+Reaper (Absol-Mega) (M) @ Absolite  
+Ability: Magic Bounce  
+Hidden Power: Psychic  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Sucker Punch  
+- Megahorn  
+- Play Rough  
+- Hone Claws
