@@ -1,47 +1,87 @@
 <!DOCTYPE html>
 <html>
 <head>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.3/p5.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.3/p5.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.3/addons/p5.dom.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.3/addons/p5.sound.min.js"></script>
     <link rel="stylesheet" type="text/css" href="style.css">
-    <meta charset="utf-8" />
+    <meta charset="utf-8" /><style>
+.dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
 
-<style>
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #00FA9A;
+  background-color: #333;
+  
 }
-
 li {
   float: left;
 }
-
 li a {
   display: block;
   color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  
 }
-
 li a:hover {
   background-color: #111;
 }
 </style>
 </head>
-      <script src="index.js"></script>
 
 <body>
+ <script src="index.js"></script>
+
+
+<div class="dropdown">
+  <button class="dropbtn">Dropdown</button>
+  <div class="dropdown-content">
+    <a href="#">Link 1</a>
+    <a href="#">Link 2</a>
+    <a href="#">Link 3</a>
+  </div>
+</div>
 
 <ul>
-  <li><a href="https://spiritneko666.github.io/index.html">Home</a></li>
+  <li><a class="active" href="#home">Home</a></li>
   <li><a href="https://spiritneko666.github.io/music.html">Music</a></li>
   <li><a href="https://spiritneko666.github.io/JavaMon.html">JavaMon</a></li>
-  <li><a href="https://spiritneko666.github.io/pkmn_creator.html">PKMN Teambuilding Tool</a></li>
-
+  <li><a href="https://spiritneko666.github.io/pkmn_creator.html">Pokemon Teambuilder Tool</a></li>
 </body>
 </html>
