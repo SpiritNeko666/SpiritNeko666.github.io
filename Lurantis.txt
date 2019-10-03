@@ -1,0 +1,8 @@
+Mantis (Lurantis) @ Grassium Z  
+Ability: Leaf Guard  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Solar Blade  
+- Sunny Day  
+- Poison Jab  
+- Synthesis
