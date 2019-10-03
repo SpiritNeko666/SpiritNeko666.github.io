@@ -1,0 +1,56 @@
+Hornet (Beedrill-Mega) @ Beedrillite  
+Ability: Adaptability  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- fellstingera  
+- Poison Jab  
+- U-turn  
+- Pursuit  
+
+Mantis (Lurantis) @ Grassium Z  
+Ability: Leaf Guard  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Solar Blade  
+- Sunny Day  
+- Poison Jab  
+- Synthesis  
+
+Salazzle (F) @ Life Orb  
+Ability: Corrosion  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Nasty Plot  
+- Flamethrower  
+- Sludge Bomb  
+
+Aegislash @ Lum Berry  
+Ability: Stance Change  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Iron Head  
+- King's Shield  
+- Swords Dance  
+- Shadow Sneak  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 252 HP / 184 Def / 72 Spe  
+Impish Nature  
+- Toxic  
+- Roost  
+- Earthquake  
+- Poison Jab  
+
+Nightmare (Umbreon) (M) @ Leftovers  
+Ability: Synchronize  
+Shiny: Yes  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Curse  
+- Heal Bell  
+- Wish  
+- Payback  
+
