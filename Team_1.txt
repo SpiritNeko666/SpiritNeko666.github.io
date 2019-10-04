@@ -2,7 +2,7 @@ Hornet (Beedrill-Mega) @ Beedrillite
 Ability: Adaptability  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
-- fellstingera  
+- Fell Stinger  
 - Poison Jab  
 - U-turn  
 - Pursuit  
@@ -39,10 +39,10 @@ Gliscor @ Toxic Orb
 Ability: Poison Heal  
 EVs: 252 HP / 184 Def / 72 Spe  
 Impish Nature  
-- Toxic  
+- Defog  
 - Roost  
 - Earthquake  
-- Poison Jab  
+- Knock Off  
 
 Nightmare (Umbreon) (M) @ Leftovers  
 Ability: Synchronize  
