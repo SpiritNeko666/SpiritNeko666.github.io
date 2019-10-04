@@ -17,13 +17,13 @@ var song
 var score = 0;
 var gameOver = false;
 var readRows = 0;
-
+  
 function preload() {
   soundFormats('mp3', 'ogg');
 }
 
 function setup() {
-  createCanvas(600, 400);
+ createCanvas(windowWidth, windowHeight);
   spirit = new Spirit();
   beedrill = new Beedrill();
 
@@ -35,18 +35,20 @@ function setup() {
     aliens.push(hit);
   }
 }
-
+  
 function draw() {
     
   
   
-  background(100);
-    
+  
+  
+  background(0);
     push()
-    fill('black')
+    fill('grey')
     rect(0,0,50,400)
-    rect(50,350,550,400)
     rect(50,0,550,50)
+    rect(50,350,550,50)
+  
     pop()
     push();
     textSize(25)
@@ -57,9 +59,7 @@ function draw() {
     text([drillhp], 462, 50)
     pop();
     
-    
-    
-    
+
     spirit.create();
     spirit.move();
     beedrill.create();
@@ -136,4 +136,7 @@ function keyPressed() {
 
 
   }
+}
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
 }
