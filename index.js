@@ -3,7 +3,7 @@ function setup() {
 }
 
 function draw() {
-  background(102);
+  background('MidnightBlue');
 
 
   
@@ -22,20 +22,7 @@ function draw() {
   star(0, 0, 55, 15, 10);
   pop()
   
-  push();
-  fill('white')
-  stroke('crimson');
-  translate(width * 0.2, height * 0.5);
-  rotate(frameCount / 50.0);
-  star1(0, 0, 55, 15, 15);
-  pop();
-   push();
-  fill('white')
-  stroke('crimson');
-  translate(width * 0.2, height * 0.5);
-  rotate(frameCount / -50.0);
-  star1(0, 0, 55, 15, 15);
-  pop();
+  
 }
 //Turn in: Your own stars with color.
 function star(x, y, radius1, radius2, npoints) {
