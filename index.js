@@ -1,10 +1,13 @@
 function setup() {
+  img = loadImage('assets/Mega_absol.jpeg'); // Load the image
+
   createCanvas(windowWidth, windowHeight);
 }
 
 function draw() {
   background('MidnightBlue');
 
+  image(img, 0, 0);
 
   
   push();
@@ -12,14 +15,14 @@ function draw() {
   stroke('black');
   translate(width * 0.5, height * 0.5);
   rotate(frameCount / 50.0);
-  star(0, 0, 55, 15, 10);
+  star(0, 0, 120, 30, 10);
   pop();
   push();
   fill('lime')
   stroke('black');
   translate(width * 0.5, height * 0.5);
   rotate(frameCount / -50.0);
-  star(0, 0, 55, 15, 10);
+  star(0, 0, 120, 30, 10);
   pop()
   
   
