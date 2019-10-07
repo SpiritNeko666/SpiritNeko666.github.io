@@ -1,5 +1,5 @@
 function setup() {
-  //img = loadImage('assets/Mega_absol.jpeg'); // Load the image
+  img = loadImage('assets/Mega_absol.jpeg'); // Load the image
 
   createCanvas(windowWidth, windowHeight);
 }
@@ -7,7 +7,7 @@ function setup() {
 function draw() {
   background('MidnightBlue');
 
-  //image(img, 0, 0);
+  image(img, 0, 0);
 
   
   push();
