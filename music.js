@@ -5,14 +5,14 @@ var volume
 
 function preload() {
   soundFormats('mp3', 'ogg', 'wav');
-  AlphysTakesAction = loadSound('Alphys takes action.mp3');
-  AsgoreIntro = loadSound('AsgoreIntro.mp3');
-  HopesAndDreams = loadSound('Hopes and Dreams.mp3');
-  SpiderDance = loadSound('Spider dance.mp3');
-  MySong = loadSound('My song.mp3');
-  MySong2 = loadSound('My Second Song.mp3');
-  Megalovania = loadSound('Megalovania');
-  Waterfall = loadSound('Waterfall.mp3');
+  AlphysTakesAction = loadSound('music/Alphys takes action.mp3');
+  AsgoreIntro = loadSound('music/Asgore Intro.mp3');
+  HopesAndDreams = loadSound('music/Hopes and Dreams.mp3');
+  SpiderDance = loadSound('music/Spider dance.mp3');
+  MySong = loadSound('music/My song.mp3');
+  MySong2 = loadSound('music/My Second Song.mp3');
+  Megalovania = loadSound('music/Megalovania');
+  Waterfall = loadSound('music/Waterfall.mp3');
 
 }
 
