@@ -1,17 +1,19 @@
 
-let song, analyzer, fft;
+let analyzer, fft;
 var volume
 
 
 function preload() {
   soundFormats('mp3', 'ogg', 'wav');
+  
+  
   AlphysTakesAction = loadSound('music/Alphys takes action.mp3');
   AsgoreIntro = loadSound('music/AsgoreIntro.mp3');
   HopesAndDreams = loadSound('music/Hopes and Dreams.mp3');
   SpiderDance = loadSound('music/Spider dance.mp3');
   MySong = loadSound('music/My song.mp3');
   MySong2 = loadSound('music/My Second Song.mp3');
-  Megalovania = loadSound('music/Megalovania');
+  Megalovania = loadSound('music/Megalovania.mp3');
   Waterfall = loadSound('music/Waterfall.mp3');
 
 }
@@ -23,7 +25,7 @@ function setup() {
   
   textStyle(BOLD);
   textSize(20);
-
+  
 
   fft = new p5.FFT();
   fft.setInput(analyzer);
