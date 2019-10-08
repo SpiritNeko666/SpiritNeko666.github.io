@@ -1,4 +1,4 @@
 function setup() {
-createA('Absol-Mega.txt', 'Absol-Mega');
-createA('Lurantis.txt', 'Lurantis');
+createA('PkMn/Absol-Mega.txt', 'Absol-Mega');
+createA('PkMn/Lurantis.txt', 'Lurantis');
 }
