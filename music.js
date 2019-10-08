@@ -6,7 +6,7 @@ var volume
 function preload() {
   soundFormats('mp3', 'ogg', 'wav');
   AlphysTakesAction = loadSound('music/Alphys takes action.mp3');
-  AsgoreIntro = loadSound('music/Asgore Intro.mp3');
+  AsgoreIntro = loadSound('music/AsgoreIntro.mp3');
   HopesAndDreams = loadSound('music/Hopes and Dreams.mp3');
   SpiderDance = loadSound('music/Spider dance.mp3');
   MySong = loadSound('music/My song.mp3');
