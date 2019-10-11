@@ -1,58 +1,59 @@
-Luxray @ Flame Orb  
+Volt (Luxray) (M) @ Flame Orb  
 Ability: Guts  
-EVs: 252 HP / 252 Atk / 4 SpD  
-Adamant Nature  
-- Crunch  
-- Fire Fang  
-- Facade  
-- Wild Charge  
-
-Reaper (Absol-Mega) @ Absolite  
-Ability: Justified  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
-- Sucker Punch  
-- Megahorn  
-- Play Rough  
-- Hone Claws  
-
-Ninetales @ Focus Sash  
-Ability: Drought  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Solar Beam  
-- Dark Pulse  
-- Flamethrower  
-- Psyshock  
-
-Mantis (Lurantis) (F) @ Grassium Z  
-Ability: Leaf Guard  
-EVs: 248 HP / 252 Atk / 8 SpD  
-Adamant Nature  
-- Solar Blade  
-- Sunny Day  
-- Poison Jab  
-- Synthesis  
+- Crunch  
+- Wild Charge  
+- Facade  
+- Superpower  
 
 Clefable @ Leftovers  
 Ability: Unaware  
 EVs: 252 HP / 252 Def / 4 SpA  
 Bold Nature  
 IVs: 0 Atk  
-- Calm Mind  
 - Wish  
+- Calm Mind  
 - Moonblast  
 - Heal Bell  
 
-Nighmare (Umbreon) (M) @ Leftovers  
+Ninetales (F) @ Focus Sash  
+Ability: Drought  
+Shiny: Yes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Solar Beam  
+- Extrasensory  
+- Flamethrower  
+
+Mantis (Lurantis) (F) @ Grassium Z  
+Ability: Leaf Guard  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Sunny Day  
+- Solar Blade  
+- Synthesis  
+- Leech Life  
+
+Reaper (Absol-Mega) (M) @ Absolite  
+Ability: Justified  
+Hidden Power: Dark  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Play Rough  
+- Megahorn  
+- Sucker Punch  
+- Zen Headbutt  
+
+Nightmare (Umbreon) (M) @ Leftovers  
 Ability: Synchronize  
 Shiny: Yes  
-Hidden Power: Dark  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Careful Nature  
 - Wish  
-- Payback  
 - Curse  
+- Payback  
 - Heal Bell  
 
