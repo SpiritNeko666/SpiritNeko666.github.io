@@ -5,7 +5,7 @@ Jolly Nature
 - Crunch  
 - Wild Charge  
 - Facade  
-- Superpower  
+- Fire Fang  
 
 Gliscor @ Toxic Orb  
 Ability: Poison Heal  
@@ -24,7 +24,7 @@ Timid Nature
 IVs: 0 Atk  
 - Dark Pulse  
 - Solar Beam  
-- Extrasensory  
+- Psyshock  
 - Flamethrower  
 
 Mantis (Lurantis) (F) @ Grassium Z  
@@ -34,7 +34,7 @@ Adamant Nature
 - Sunny Day  
 - Solar Blade  
 - Synthesis  
-- Leech Life  
+- Poison Jab  
 
 Reaper (Absol-Mega) (M) @ Absolite  
 Ability: Justified  
