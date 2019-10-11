@@ -7,15 +7,14 @@ Jolly Nature
 - Facade  
 - Superpower  
 
-Clefable @ Leftovers  
-Ability: Unaware  
-EVs: 252 HP / 252 Def / 4 SpA  
-Bold Nature  
-IVs: 0 Atk  
-- Wish  
-- Calm Mind  
-- Moonblast  
-- Heal Bell  
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 252 HP / 184 Def / 72 Spe  
+Impish Nature  
+- Defog  
+- Earthquake  
+- Roost  
+- Knock Off  
 
 Ninetales (F) @ Focus Sash  
 Ability: Drought  
