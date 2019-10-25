@@ -16,7 +16,7 @@ Impish Nature
 - Roost  
 - Knock Off  
 
-Ninetales (F) @ Focus Sash  
+Ashe (Ninetales) (F) @ Focus Sash  
 Ability: Drought  
 Shiny: Yes  
 EVs: 252 SpA / 4 SpD / 252 Spe  
