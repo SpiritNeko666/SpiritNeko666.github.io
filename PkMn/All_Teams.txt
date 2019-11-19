@@ -1,0 +1,239 @@
+=== [gen7] Untitled 1 ===
+
+Togekiss @ Quick Claw  
+Ability: Serene Grace  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Air Slash  
+- Thunder Wave  
+- Ancient Power  
+- Roost  
+
+Mantis (Lurantis) @ Grassium Z  
+Ability: Leaf Guard  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Solar Blade  
+- Sunny Day  
+- Poison Jab  
+- Synthesis  
+
+Ninetales @ Focus Sash  
+Ability: Drought  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Psyshock  
+- Solar Beam  
+- Dark Pulse  
+
+Lopunny-Mega @ Lopunnite  
+Ability: Limber  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Drain Punch  
+- Fake Out  
+- High Jump Kick  
+- Ice Punch  
+
+Scizor @ Leftovers  
+Ability: Technician  
+EVs: 248 HP / 8 Atk / 252 Def  
+Impish Nature  
+- Toxic  
+- Defog  
+- Roost  
+- Bullet Punch  
+
+Nightmare (Umbreon) @ Leftovers  
+Ability: Synchronize  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Wish  
+- Payback  
+- Curse  
+- Heal Bell  
+
+
+=== [gen7] Untitled 2 ===
+
+Emerald (Gardevoir-Mega) @ Gardevoirite  
+Ability: Synchronize  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Energy Ball  
+- Psyshock  
+- Hyper Voice  
+- Shadow Ball  
+
+Blade (Aegislash) @ Leftovers  
+Ability: Stance Change  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Toxic  
+- Flash Cannon  
+- King's Shield  
+- Iron Defense  
+
+Rouge (Greninja) @ Life Orb  
+Ability: Protean  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Gunk Shot  
+- Waterfall  
+- U-turn  
+- Low Kick  
+
+Burst (Noivern) @ Choice Scarf  
+Ability: Infiltrator  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Boomburst  
+- Air Slash  
+- Dragon Pulse  
+- U-turn  
+
+Venom (Venomoth) @ Black Sludge  
+Ability: Tinted Lens  
+EVs: 248 HP / 8 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Baton Pass  
+- Quiver Dance  
+- Bug Buzz  
+- Substitute  
+
+Nightmare (Umbreon) @ Leftovers  
+Ability: Synchronize  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Wish  
+- Payback  
+- Curse  
+- Heal Bell  
+
+
+=== [gen7] Untitled 3 ===
+
+Volt (Luxray) (M) @ Flame Orb  
+Ability: Guts  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Crunch  
+- Wild Charge  
+- Facade  
+- Fire Fang  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 252 HP / 184 Def / 72 Spe  
+Impish Nature  
+- Defog  
+- Earthquake  
+- Roost  
+- Knock Off  
+
+Ashe (Ninetales) (F) @ Focus Sash  
+Ability: Drought  
+Shiny: Yes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Solar Beam  
+- Psyshock  
+- Flamethrower  
+
+Mantis (Lurantis) (F) @ Grassium Z  
+Ability: Leaf Guard  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Sunny Day  
+- Solar Blade  
+- Synthesis  
+- Poison Jab  
+
+Reaper (Absol-Mega) (M) @ Absolite  
+Ability: Justified  
+Hidden Power: Dark  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Play Rough  
+- Megahorn  
+- Sucker Punch  
+- Hone Claws  
+
+Nightmare (Umbreon) (M) @ Leftovers  
+Ability: Synchronize  
+Shiny: Yes  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Wish  
+- Curse  
+- Payback  
+- Heal Bell  
+
+
+=== [gen7] Untitled 4 ===
+
+Hornet (Beedrill-Mega) @ Beedrillite  
+Ability: Adaptability  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Fell Stinger  
+- Poison Jab  
+- U-turn  
+- Pursuit  
+
+Mantis (Lurantis) @ Grassium Z  
+Ability: Leaf Guard  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Solar Blade  
+- Sunny Day  
+- Poison Jab  
+- Synthesis  
+
+Salazzle (F) @ Life Orb  
+Ability: Corrosion  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Nasty Plot  
+- Flamethrower  
+- Sludge Bomb  
+
+Aegislash @ Lum Berry  
+Ability: Stance Change  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Iron Head  
+- King's Shield  
+- Swords Dance  
+- Shadow Sneak  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 252 HP / 184 Def / 72 Spe  
+Impish Nature  
+- Defog  
+- Roost  
+- Earthquake  
+- Knock Off  
+
+Nightmare (Umbreon) (M) @ Leftovers  
+Ability: Synchronize  
+Shiny: Yes  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Curse  
+- Heal Bell  
+- Wish  
+- Payback  
+
+
