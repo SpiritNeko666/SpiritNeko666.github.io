@@ -1,4 +1,4 @@
-=== [gen7ou] Complete Teams/Untitled 49 ===
+=== [gen7ou] Complete Teams/OU Draft Offense by Boop ===
 
 Tyranitar @ Assault Vest  
 Ability: Sand Stream  
@@ -2091,7 +2091,7 @@ Adamant Nature
 - Seed Bomb  
 
 
-=== [gen7ou] Theme Teams/Whitney Theme Team ===
+=== [gen7ou] Theme Teams/Whitney's Team ===
 
 Miltank (F) @ Leftovers  
 Ability: Thick Fat  
@@ -2149,7 +2149,7 @@ IVs: 0 Atk
 - Heal Bell  
 
 
-=== [gen7ou] Theme Teams/Untitled 50 ===
+=== [gen7ou] Theme Teams/Falconer's Team ===
 
 Skarmory @ Leftovers  
 Ability: Sturdy  
