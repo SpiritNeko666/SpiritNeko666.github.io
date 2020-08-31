@@ -1,4 +1,35 @@
-=== [gen7ou] My Teams/Copy of Untitled 80 ===
+=== [gen7ou] Untitled 88 ===
+
+Absol-Mega @ Absolite  
+Ability: Magic Bounce  
+- Sucker Punch  
+- Superpower  
+- Play Rough  
+
+Ashe (Ninetales) @ Focus Sash  
+Ability: Drought  
+Shiny: Yes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Hidden Power [Ice]  
+- Solar Beam  
+- Dark Pulse  
+
+Mantis (Lurantis) @ Grassium Z  
+Ability: Contrary  
+Shiny: Yes  
+EVs: 248 HP / 252 SpA / 8 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Weather Ball  
+- Leaf Storm  
+- Signal Beam  
+- Synthesis  
+
+
+=== [gen7ou] New Mega Beedrill Team ===
 
 Hornet (Beedrill-Mega) @ Beedrillite  
 Ability: Adaptability  
@@ -6,7 +37,7 @@ EVs: 252 Atk / 4 SpD / 252 Spe
 Jolly Nature  
 - Drill Run  
 - Poison Jab  
-- Fell Stinger  
+- Pursuit  
 - U-turn  
 
 Mantis (Lurantis) (F) @ Grassium Z  
@@ -20,7 +51,7 @@ IVs: 0 Atk
 - Signal Beam  
 - Synthesis  
 
-Ash (Ninetales) (F) @ Focus Sash  
+Ash (Ninetales) (F) @ Heat Rock  
 Ability: Drought  
 Shiny: Yes  
 EVs: 252 SpA / 4 SpD / 252 Spe  
@@ -31,15 +62,6 @@ IVs: 0 Atk
 - Extrasensory  
 - Dark Pulse  
 
-Umbreon @ Leftovers  
-Ability: Synchronize  
-EVs: 252 HP / 4 Atk / 252 SpD  
-Careful Nature  
-- Curse  
-- Wish  
-- Payback  
-- Heal Bell  
-
 Mimikyu @ Mimikium Z  
 Ability: Disguise  
 EVs: 252 Atk / 4 SpD / 252 Spe  
@@ -49,17 +71,122 @@ Jolly Nature
 - Swords Dance  
 - Play Rough  
 
-Gliscor @ Toxic Orb  
-Ability: Poison Heal  
-EVs: 252 HP / 184 Def / 72 Spe  
-Impish Nature  
-- Facade  
-- Earthquake  
-- Toxic  
+Togekiss @ Quick Claw  
+Ability: Serene Grace  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Thunder Wave  
+- Ancient Power  
+- Air Slash  
 - Roost  
 
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 244 HP / 52 Def / 76 SpD / 136 Spe  
+Jolly Nature  
+- Earthquake  
+- Defog  
+- Roost  
+- Knock Off  
 
-=== [gen7ou] My Teams/Copy of Copy of Copy of First Gen 8 OU team ===
+
+=== [gen7ou] Elite Four Challenge/Copy of Elite Four Bug ===
+
+Black Widow (Ariados) (M) @ Razor Claw  
+Ability: Sniper  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Sucker Punch  
+- Leech Life  
+- Shadow Sneak  
+- Poison Jab  
+
+Ribombee @ Focus Sash  
+Ability: Shield Dust  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Quiver Dance  
+- Pollen Puff  
+- Psychic  
+
+Durant @ Life Orb  
+Ability: Hustle  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- X-Scissor  
+- Superpower  
+- Crunch  
+- Iron Head  
+
+Vivillon-Tundra @ Focus Sash  
+Ability: Compound Eyes  
+IVs: 0 Atk  
+- Psychic  
+- Hurricane  
+- Bug Buzz  
+
+
+=== [gen7ou] Random Team 1 ===
+
+Nihilego @ Focus Sash  
+Ability: Beast Boost  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Toxic Spikes  
+- Power Gem  
+- Sludge Wave  
+- Hidden Power [Fire]  
+
+Excadrill @ Life Orb  
+Ability: Sand Rush  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Earthquake  
+- Iron Head  
+- Rapid Spin  
+- Substitute  
+
+Absol @ Absolite  
+Ability: Magic Bounce  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Knock Off  
+- Sucker Punch  
+- Play Rough  
+- Swords Dance  
+
+Klefki @ Light Clay  
+Ability: Prankster  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+- Thunder Wave  
+- Spikes  
+- Reflect  
+- Light Screen  
+
+Pheromosa @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 Atk / 104 SpA / 152 Spe  
+Naughty Nature  
+- High Jump Kick  
+- U-turn  
+- Ice Beam  
+- Poison Jab  
+
+Skarmory @ Rocky Helmet  
+Ability: Sturdy  
+EVs: 252 HP / 232 Def / 24 Spe  
+Impish Nature  
+- Roost  
+- Brave Bird  
+- Stealth Rock  
+- Taunt  
+
+
+=== [gen8ou] First Gen 8 OU team ===
 
 Aegislash @ Leftovers  
 Ability: Stance Change  
@@ -110,7 +237,7 @@ IVs: 0 Atk
 - Toxic  
 - Sludge Bomb  
 
-Mimikyu @ Leftovers  
+Mimikyu @ Life Orb  
 Ability: Disguise  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
@@ -120,7 +247,7 @@ Jolly Nature
 - Shadow Sneak  
 
 
-=== [gen7ou] My Teams/Copy of Absol-Mega OU Team ===
+=== [gen7ou] Copy of Absol-Mega OU Team ===
 
 Scarlet (Absol-Mega) (F) @ Absolite  
 Ability: Magic Bounce  
@@ -183,100 +310,7 @@ Jolly Nature
 - Shadow Sneak  
 
 
-=== [gen7ou] Untitled 59 ===
-
-Slowbro  
-Ability: Regenerator  
-IVs: 0 Atk  
-
-Volcarona @ Buginium Z  
-Ability: Flame Body  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Quiver Dance  
-- Fiery Dance  
-- Bug Buzz  
-- Hidden Power [Ground]  
-
-Amoonguss @ Black Sludge  
-Ability: Regenerator  
-EVs: 252 HP / 252 SpA / 4 SpD  
-Modest Nature  
-IVs: 0 Atk  
-- Spore  
-- Giga Drain  
-- Synthesis  
-- Sludge Bomb  
-
-Mimikyu @ Mimikium Z  
-Ability: Disguise  
-
-
-=== [gen7ou] Edited Teams/Copy of Absol-Mega OU Team ===
-
-Reaper (Absol-Mega) (M) @ Absolite  
-Ability: Justified  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- Swords Dance  
-- Sucker Punch  
-- Play Rough  
-- Superpower  
-
-Zapdos @ Focus Sash  
-Ability: Static  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Hidden Power [Ice]  
-- Thunderbolt  
-- Heat Wave  
-- Volt Switch  
-
-Gliscor @ Toxic Orb  
-Ability: Poison Heal  
-EVs: 252 HP / 184 Def / 72 Spe  
-Impish Nature  
-- Toxic  
-- Earthquake  
-- Roost  
-- Facade  
-
-Ashe (Ninetales) (F) @ Focus Sash  
-Ability: Drought  
-Shiny: Yes  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Dark Pulse  
-- Solar Beam  
-- Flamethrower  
-- Hidden Power [Ground]  
-
-Nightmare (Umbreon) (M) @ Leftovers  
-Ability: Synchronize  
-Shiny: Yes  
-EVs: 252 HP / 4 Atk / 252 SpD  
-Careful Nature  
-- Wish  
-- Curse  
-- Payback  
-- Heal Bell  
-
-Mantis (Lurantis) @ Grassium Z  
-Ability: Contrary  
-Shiny: Yes  
-EVs: 248 HP / 252 SpA / 8 SpD  
-Modest Nature  
-IVs: 0 Atk  
-- Weather Ball  
-- Leaf Storm  
-- Signal Beam  
-- Synthesis  
-
-
-=== [gen7ou] My Teams/Lopunny-Mega Team ===
+=== [gen7ou] Lopunny-Mega Team ===
 
 Lucy (Lopunny-Mega) @ Lopunnite  
 Ability: Limber  
@@ -339,7 +373,7 @@ Careful Nature
 - Heal Bell  
 
 
-=== [gen7ou] Extra Teams/Beedrill-Mega Team ===
+=== [gen7ou] Untitled 1 ===
 
 Hornet (Beedrill-Mega) @ Beedrillite  
 Ability: Adaptability  
@@ -400,7 +434,7 @@ Adamant Nature
 - Heavy Slam  
 
 
-=== [gen7ou] Extra Teams/Ampharos-Mega team ===
+=== [gen7ou] Ampharos-Mega team ===
 
 Ampharos-Mega @ Ampharosite  
 Ability: Mold Breaker  
@@ -462,7 +496,128 @@ Adamant Nature
 - Roost  
 
 
-=== [gen7ou] Extra Teams/Banette-Mega Team Variant ===
+=== [gen7ou] Untitled 87 ===
+
+Ninetales @ Heat Rock  
+Ability: Drought  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Overheat  
+- Solar Beam  
+- Dark Pulse  
+- Extrasensory  
+
+Venusaur @ Life Orb  
+Ability: Chlorophyll  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 1 Atk  
+- Growth  
+- Giga Drain  
+- Hidden Power [Fire]  
+- Sludge Bomb  
+
+Absol-Mega @ Absolite  
+Ability: Magic Bounce  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Pursuit  
+- Superpower  
+- Megahorn  
+
+Charizard @ Expert Belt  
+Ability: Blaze  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Focus Blast  
+- Solar Beam  
+- Roost  
+
+Porygon-Z @ Normalium Z  
+Ability: Adaptability  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Thunderbolt  
+- Ice Beam  
+- Recover  
+- Conversion  
+
+Blacephalon @ Choice Scarf  
+Ability: Beast Boost  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+- Fire Blast  
+- Shadow Ball  
+- Hidden Power [Ground]  
+- Trick  
+
+
+=== [gen7ou] Untitled 8733 ===
+
+Magearna @ Assault Vest  
+Ability: Soul-Heart  
+EVs: 248 HP / 36 SpA / 224 SpD  
+Sassy Nature  
+- Volt Switch  
+- Fleur Cannon  
+- Ice Beam  
+- Iron Head  
+
+Landorus-Therian (M) @ Rocky Helmet  
+Ability: Intimidate  
+Hidden Power: Ice  
+EVs: 248 HP / 116 Def / 144 Spe  
+Impish Nature  
+IVs: 0 SpA  
+- Stealth Rock  
+- Earthquake  
+- Smack Down  
+- U-turn  
+
+Greninja @ Waterium Z  
+Ability: Battle Bond  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Hydro Pump  
+- Dark Pulse  
+- Water Shuriken  
+- Spikes  
+
+Medicham @ Medichamite  
+Ability: Telepathy  
+Shiny: Yes  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- High Jump Kick  
+- Ice Punch  
+- Thunder Punch  
+
+Hawlucha @ Electric Seed  
+Ability: Unburden  
+EVs: 252 Atk / 36 Def / 220 Spe  
+Adamant Nature  
+- High Jump Kick  
+- Swords Dance  
+- Acrobatics  
+- Stone Edge  
+
+Tapu Koko @ Magnet  
+Ability: Electric Surge  
+Hidden Power: Ice  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Wild Charge  
+- Nature's Madness  
+- U-turn  
+- Taunt  
+
+
+=== [gen7ou] Banette-Mega Team Variant ===
 
 Puppet (Banette-Mega) (M) @ Banettite  
 Ability: Prankster  
@@ -579,6 +734,65 @@ Jolly Nature
 - Poison Jab  
 
 Gogoat @ Terrain Extender  
+Ability: Grass Pelt  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Grassy Terrain  
+- Horn Leech  
+- Leech Seed  
+- Synthesis  
+
+
+=== [gen7ou] Other Peoples Teams/Alexis Team ===
+
+Charizard-Mega-Y @ Charizardite Y  
+Ability: Drought  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Flamethrower  
+- Air Slash  
+- Solar Beam  
+- Dragon Pulse  
+
+Sawsbuck @ Assault Vest  
+Ability: Chlorophyll  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Horn Leech  
+- Megahorn  
+- Return  
+- Wild Charge  
+
+Cobalion @ Leftovers  
+Ability: Justified  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Sacred Sword  
+- Iron Head  
+- Stone Edge  
+- Poison Jab  
+
+Girafarig @ Life Orb  
+Ability: Sap Sipper  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Energy Ball  
+- Shadow Ball  
+- Psychic  
+- Hyper Voice  
+
+Rapidash @ Assault Vest  
+Ability: Flash Fire  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Flare Blitz  
+- Drill Run  
+- Wild Charge  
+- Poison Jab  
+
+Gogoat @ Grassy Seed  
 Ability: Grass Pelt  
 EVs: 252 HP / 4 Atk / 252 SpD  
 Careful Nature  
@@ -769,6 +983,65 @@ EVs: 252 HP / 168 Def / 88 SpD
 - Sleep Powder  
 
 
+=== [gen7ou] Other Peoples Teams/Hazard Team ===
+
+Skarmory @ Rocky Helmet  
+Ability: Sturdy  
+EVs: 252 HP / 232 Def / 24 Spe  
+Impish Nature  
+- Brave Bird  
+- Defog  
+- Spikes  
+- Stealth Rock  
+
+Chansey (F) @ Eviolite  
+Ability: Natural Cure  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+- Stealth Rock  
+- Toxic  
+- Seismic Toss  
+- Soft-Boiled  
+
+Sableye-Mega @ Sablenite  
+Ability: Prankster  
+EVs: 248 HP / 8 Atk / 252 SpD  
+Careful Nature  
+- Shadow Sneak  
+- Will-O-Wisp  
+- Fake Out  
+- Recover  
+
+Toxapex @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 252 Def / 4 SpD  
+Bold Nature  
+IVs: 0 Atk  
+- Baneful Bunker  
+- Toxic Spikes  
+- Scald  
+- Recover  
+
+Ferrothorn @ Rocky Helmet  
+Ability: Iron Barbs  
+EVs: 248 HP / 8 Atk / 252 Def  
+Relaxed Nature  
+IVs: 0 Spe  
+- Giga Drain  
+- Leech Seed  
+- Stealth Rock  
+- Gyro Ball  
+
+Donphan @ Chesto Berry  
+Ability: Sturdy  
+EVs: 248 HP / 8 Atk / 252 Def  
+Impish Nature  
+- Rapid Spin  
+- Heavy Slam  
+- Stealth Rock  
+- Rest  
+
+
 === [gen7ou] Other Peoples Teams/Untitled 50 ===
 
 Volcarona @ Buginium Z  
@@ -853,17 +1126,65 @@ Arcanine
 Ability: Intimidate  
 
 
-=== [gen7ou] Unfinished teams/Untitled 40 ===
+=== [gen7ou] Elite Four Challenge/Untitled 87 ===
 
-Slowbro-Mega @ Slowbronite  
-Ability: Shell Armor  
+Togekiss @ Quick Claw  
+Ability: Serene Grace  
 EVs: 252 HP / 252 SpA / 4 SpD  
 Modest Nature  
 IVs: 0 Atk  
-- Sleep Talk  
+- Ancient Power  
+- Air Slash  
+- Roost  
+- Thunder Wave  
+
+Ninetales-Alola @ Focus Sash  
+Ability: Snow Warning  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Blizzard  
+- Moonblast  
+- Extrasensory  
+- Aurora Veil  
+
+Mawile-Mega @ Mawilite  
+Ability: Huge Power  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Iron Head  
+- Sucker Punch  
+- Swords Dance  
+- Play Rough  
+
+Mimikyu @ Mimikium Z  
+Ability: Disguise  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Leech Life  
+- Shadow Sneak  
+- Play Rough  
+
+Comfey @ Leftovers  
+Ability: Flower Veil  
+EVs: 252 HP / 4 SpA / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Synthesis  
+- Leech Seed  
+- Giga Drain  
+- Draining Kiss  
+
+Clefable @ Leftovers  
+Ability: Cute Charm  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Wish  
+- Heal Bell  
 - Calm Mind  
-- Rest  
-- Scald  
+- Moonblast  
 
 
 === [gen7uu] Untitled 23 ===
@@ -968,7 +1289,7 @@ IVs: 0 Spe
 - Giga Drain  
 
 
-=== [gen7anythinggoes] Extra Teams/AG team ===
+=== [gen7anythinggoes] AG team ===
 
 Hornet (Beedrill-Mega) @ Beedrillite  
 Ability: Adaptability  
@@ -1027,7 +1348,7 @@ Careful Nature
 - Payback  
 
 
-=== [gen7ou] My Teams/Mawile-Mega Team ===
+=== [gen7ou] Mawile-Mega Team ===
 
 Mawile-Mega @ Mawilite  
 Ability: Intimidate  
@@ -1088,7 +1409,7 @@ Impish Nature
 - Defog  
 
 
-=== [gen7ou] My Teams/Dark Psychic Fight Team ===
+=== [gen7ou] Dark Psychic Fight Team ===
 
 Houndoom-Mega @ Houndoominite  
 Ability: Flash Fire  
@@ -1149,7 +1470,7 @@ IVs: 0 Atk
 - Sludge Bomb  
 
 
-=== [gen7ou] Extra Teams/Copy of Lopunny-Mega Team ===
+=== [gen7ou] Copy of Lopunny-Mega Team ===
 
 Lucy (Lopunny-Mega) @ Lopunnite  
 Ability: Limber  
@@ -1212,7 +1533,7 @@ Careful Nature
 - Heal Bell  
 
 
-=== [gen7ou] Extra Teams/Mega Bannete Team ===
+=== [gen7ou] Mega Bannete Team ===
 
 Puppet (Banette-Mega) (M) @ Banettite  
 Ability: Insomnia  
@@ -1275,7 +1596,7 @@ Jolly Nature
 - U-turn  
 
 
-=== [gen7anythinggoes] Extra Teams/AG team ===
+=== [gen7anythinggoes] AG team ===
 
 Emerald (Gardevoir-Mega) @ Gardevoirite  
 Ability: Synchronize  
@@ -1335,7 +1656,17 @@ Careful Nature
 - Heal Bell  
 
 
-=== [gen7ou] Unfinished teams/Untitled 67 ===
+=== [gen7ou] Ampharos-Mega OU team ===
+
+Ampharos-Mega @ Ampharosite  
+Ability: Mold Breaker  
+EVs: 248 HP / 252 SpA / 8 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Power Gem  
+- Signal Beam  
+- Thunderbolt  
 
 Amoonguss @ Black Sludge  
 Ability: Regenerator  
@@ -1357,18 +1688,36 @@ IVs: 0 Atk
 - Flamethrower  
 - Psyshock  
 
-Volcarona @ Leftovers  
-Ability: Flame Body  
-EVs: 4 Def / 252 SpA / 252 Spe  
+Trickster (Zoroark) @ Focus Sash  
+Ability: Illusion  
+EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
-IVs: 0 Atk  
-- Quiver Dance  
-- Fiery Dance  
-- Psychic  
-- Bug Buzz  
+- Flamethrower  
+- Dark Pulse  
+- Hidden Power [Ice]  
+- U-turn  
+
+Mienshao @ Life Orb  
+Ability: Reckless  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Fake Out  
+- High Jump Kick  
+- Poison Jab  
+
+Toucannon @ Leftovers  
+Ability: Skill Link  
+Shiny: Yes  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Bullet Seed  
+- Rock Blast  
+- Beak Blast  
+- Roost  
 
 
-=== [gen7ou] My Teams/Absol-Mega OU Team ===
+=== [gen7ou] Absol-Mega OU Team ===
 
 Scarlet (Absol-Mega) (F) @ Absolite  
 Ability: Magic Bounce  
@@ -1432,68 +1781,7 @@ IVs: 0 Atk
 - Synthesis  
 
 
-=== [gen8ou] Unfinished teams/Copy of Copy of First Gen 8 OU team ===
-
-Aegislash @ Leftovers  
-Ability: Stance Change  
-EVs: 252 HP / 252 Atk / 4 SpD  
-Adamant Nature  
-- Swords Dance  
-- Shadow Sneak  
-- King's Shield  
-- Iron Head  
-
-Volcarona @ Heavy-Duty Boots  
-Ability: Flame Body  
-EVs: 4 Def / 252 SpA / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Quiver Dance  
-- Fiery Dance  
-- Psychic  
-- Bug Buzz  
-
-Togekiss @ Quick Claw  
-Ability: Serene Grace  
-EVs: 252 HP / 252 SpA / 4 SpD  
-Modest Nature  
-IVs: 0 Atk  
-- Ancient Power  
-- Air Slash  
-- Thunder Wave  
-- Roost  
-
-Slowbro @ Leftovers  
-Ability: Regenerator  
-EVs: 252 HP / 252 Def / 4 SpA  
-Bold Nature  
-IVs: 0 Atk  
-- Scald  
-- Slack Off  
-- Flamethrower  
-- Psyshock  
-
-Amoonguss @ Black Sludge  
-Ability: Regenerator  
-EVs: 252 HP / 4 SpA / 252 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Spore  
-- Giga Drain  
-- Toxic  
-- Sludge Bomb  
-
-Mimikyu @ Leftovers  
-Ability: Disguise  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- Leech Life  
-- Play Rough  
-- Swords Dance  
-- Shadow Sneak  
-
-
-=== [gen7ou] Extra Teams/Untitled 57 ===
+=== [gen7ou] Untitled 57 ===
 
 Toxapex @ Black Sludge  
 Ability: Regenerator  
@@ -1554,7 +1842,7 @@ Jolly Nature
 - Shadow Sneak  
 
 
-=== [gen7ou] Extra Teams/Beedrill-Mega team ===
+=== [gen7ou] Beedrill-Mega team ===
 
 Hornet (Beedrill-Mega) (M) @ Beedrillite  
 Ability: Adaptability  
@@ -1616,7 +1904,7 @@ Adamant Nature
 - Poison Jab  
 
 
-=== [gen7ou] Extra Teams/Experimental Team ===
+=== [gen7ou] Experimental Team ===
 
 Day Dream (Espeon) (F) @ Life Orb  
 Ability: Synchronize  
@@ -1677,127 +1965,7 @@ Careful Nature
 - Will-O-Wisp  
 
 
-=== [gen7ou] Other Peoples Teams/Hazard Team ===
-
-Skarmory @ Rocky Helmet  
-Ability: Sturdy  
-EVs: 252 HP / 232 Def / 24 Spe  
-Impish Nature  
-- Brave Bird  
-- Defog  
-- Spikes  
-- Stealth Rock  
-
-Chansey (F) @ Eviolite  
-Ability: Natural Cure  
-EVs: 248 HP / 252 Def / 8 SpD  
-Bold Nature  
-- Stealth Rock  
-- Toxic  
-- Seismic Toss  
-- Soft-Boiled  
-
-Sableye-Mega @ Sablenite  
-Ability: Prankster  
-EVs: 248 HP / 8 Atk / 252 SpD  
-Careful Nature  
-- Shadow Sneak  
-- Will-O-Wisp  
-- Fake Out  
-- Recover  
-
-Toxapex @ Black Sludge  
-Ability: Regenerator  
-EVs: 252 HP / 252 Def / 4 SpD  
-Bold Nature  
-IVs: 0 Atk  
-- Baneful Bunker  
-- Toxic Spikes  
-- Scald  
-- Recover  
-
-Ferrothorn @ Rocky Helmet  
-Ability: Iron Barbs  
-EVs: 248 HP / 8 Atk / 252 Def  
-Relaxed Nature  
-IVs: 0 Spe  
-- Giga Drain  
-- Leech Seed  
-- Stealth Rock  
-- Gyro Ball  
-
-Donphan @ Chesto Berry  
-Ability: Sturdy  
-EVs: 248 HP / 8 Atk / 252 Def  
-Impish Nature  
-- Rapid Spin  
-- Heavy Slam  
-- Stealth Rock  
-- Rest  
-
-
-=== [gen7ou] My Teams/Ampharos-Mega OU team ===
-
-Ampharos-Mega @ Ampharosite  
-Ability: Mold Breaker  
-EVs: 248 HP / 252 SpA / 8 SpD  
-Modest Nature  
-IVs: 0 Atk  
-- Dragon Pulse  
-- Power Gem  
-- Signal Beam  
-- Thunderbolt  
-
-Amoonguss @ Black Sludge  
-Ability: Regenerator  
-EVs: 252 HP / 4 SpA / 252 SpD  
-Calm Nature  
-IVs: 0 Atk  
-- Spore  
-- Giga Drain  
-- Toxic  
-- Sludge Bomb  
-
-Slowbro @ Leftovers  
-Ability: Regenerator  
-EVs: 252 HP / 252 Def / 4 SpA  
-Bold Nature  
-IVs: 0 Atk  
-- Scald  
-- Slack Off  
-- Flamethrower  
-- Psyshock  
-
-Trickster (Zoroark) @ Focus Sash  
-Ability: Illusion  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-- Flamethrower  
-- Dark Pulse  
-- Hidden Power [Ice]  
-- U-turn  
-
-Mienshao @ Life Orb  
-Ability: Reckless  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- U-turn  
-- Fake Out  
-- High Jump Kick  
-- Poison Jab  
-
-Toucannon @ Leftovers  
-Ability: Skill Link  
-Shiny: Yes  
-EVs: 252 HP / 252 Atk / 4 SpD  
-Adamant Nature  
-- Bullet Seed  
-- Rock Blast  
-- Beak Blast  
-- Roost  
-
-
-=== [gen7ou] Extra Teams/Copy of Absol-Mega OU Team ===
+=== [gen7ou] Copy of Absol-Mega OU Team ===
 
 Scarlet (Absol-Mega) (F) @ Absolite  
 Ability: Magic Bounce  
@@ -1861,7 +2029,7 @@ Jolly Nature
 - Shadow Sneak  
 
 
-=== [gen7ou] Extra Teams/OU Team ===
+=== [gen7ou] OU Team ===
 
 Jolt (Manectric-Mega) (M) @ Manectite  
 Ability: Lightning Rod  
@@ -1924,7 +2092,7 @@ Impish Nature
 - Knock Off  
 
 
-=== [gen7ou] Extra Teams/OU Team ===
+=== [gen7ou] OU Team ===
 
 Reaper (Absol-Mega) (M) @ Absolite  
 Ability: Justified  
@@ -2046,7 +2214,7 @@ Jolly Nature
 - Quick Attack  
 
 
-=== [gen7ou] Unfinished teams/Untitled 26 ===
+=== [gen7ou] Untitled 26 ===
 
 Lilligant (F) @ Choice Specs  
 Ability: Own Tempo  
@@ -2110,66 +2278,7 @@ IVs: 0 Atk
 - Earth Power  
 
 
-=== [gen7ou] Other Peoples Teams/Alexis Team ===
-
-Charizard-Mega-Y @ Charizardite Y  
-Ability: Drought  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Flamethrower  
-- Air Slash  
-- Solar Beam  
-- Dragon Pulse  
-
-Sawsbuck @ Assault Vest  
-Ability: Chlorophyll  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Adamant Nature  
-- Horn Leech  
-- Megahorn  
-- Return  
-- Wild Charge  
-
-Cobalion @ Leftovers  
-Ability: Justified  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- Sacred Sword  
-- Iron Head  
-- Stone Edge  
-- Poison Jab  
-
-Girafarig @ Life Orb  
-Ability: Sap Sipper  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Energy Ball  
-- Shadow Ball  
-- Psychic  
-- Hyper Voice  
-
-Rapidash @ Assault Vest  
-Ability: Flash Fire  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- Flare Blitz  
-- Drill Run  
-- Wild Charge  
-- Poison Jab  
-
-Gogoat @ Grassy Seed  
-Ability: Grass Pelt  
-EVs: 252 HP / 4 Atk / 252 SpD  
-Careful Nature  
-- Grassy Terrain  
-- Horn Leech  
-- Leech Seed  
-- Synthesis  
-
-
-=== [gen7anythinggoes] Pokemon/Untitled 19 ===
+=== [gen7anythinggoes] Untitled 19 ===
 
 Aerodactyl-Mega @ Aerodactylite  
 Ability: Tough Claws  
@@ -2221,7 +2330,7 @@ Adamant Nature
 - Earthquake  
 
 
-=== [gen7anythinggoes] Pokemon/Untitled 9 ===
+=== [gen7anythinggoes] Untitled 9 ===
 
 Porygon-Z  
 Ability: Adaptability  
@@ -2284,7 +2393,7 @@ Snorlax @ Snorlium Z
 Ability: Immunity  
 
 
-=== [gen7anythinggoes] Pokemon/Untitled 7 ===
+=== [gen7anythinggoes] Untitled 7 ===
 
 Skarmory @ Rocky Helmet  
 Ability: Sturdy  
@@ -2504,7 +2613,7 @@ Impish Nature
 - Defog  
 
 
-=== [gen7ou] Sample Teams/Hyper Offensive ===
+=== [gen7ou] Hyper Offensive ===
 
 Altaria @ Altarianite  
 Ability: Cloud Nine  
@@ -2562,7 +2671,7 @@ Jolly Nature
 - Volt Switch  
 
 
-=== [gen7ou] Sample Teams/Super Generic OU Team ===
+=== [gen7ou] Super Generic OU Team ===
 
 Ferrothorn @ Leftovers  
 Ability: Iron Barbs  
@@ -2622,7 +2731,7 @@ Bold Nature
 - Soft-Boiled  
 
 
-=== [gen7ou] Pokemon/Physical Attackers ===
+=== [gen7ou] Physical Attackers ===
 
 Mienshao @ Life Orb  
 Ability: Reckless  
@@ -2679,7 +2788,7 @@ Jolly Nature
 - Shadow Claw  
 
 
-=== [gen7ou] Pokemon/Special Attackers ===
+=== [gen7ou] Special Attackers ===
 
 Gardevoir @ Assault Vest  
 Ability: Trace  
@@ -2742,7 +2851,7 @@ IVs: 0 Atk
 - Thunderbolt  
 
 
-=== [gen7ou] Sample Teams/Balanced Team ===
+=== [gen7ou] Balanced Team ===
 
 Toxapex @ Black Sludge  
 Ability: Regenerator  
@@ -2801,7 +2910,7 @@ Timid Nature
 - U-turn  
 
 
-=== [gen7ou] Sample Teams/Untitled 29 ===
+=== [gen7ou] Untitled 29 ===
 
 Mawile-Mega (F) @ Mawilite  
 Ability: Intimidate  
@@ -2860,7 +2969,7 @@ Jolly Nature
 - Giga Impact  
 
 
-=== [gen7ou] Sample Teams/Untitled 30 ===
+=== [gen7ou] Untitled 30 ===
 
 Lopunny-Mega (F) @ Lopunnite  
 Ability: Limber  
@@ -2919,7 +3028,7 @@ Sassy Nature
 - Flamethrower  
 
 
-=== [gen7ou] Pokemon/Pokemon ===
+=== [gen7ou] Pokemon ===
 
 Scarlet (Absol) (F) @ Absolite  
 Ability: Justified  
@@ -2969,6 +3078,9 @@ IVs: 0 Atk
 - Ice Beam  
 - Flamethrower  
 - Thunderbolt  
+
+Absol-Mega @ Absolite  
+Ability: Magic Bounce  
 
 
 === [gen7doublesou] Weather Teams/Doubles Sun Team ===
@@ -3033,7 +3145,7 @@ IVs: 0 Atk
 - Curse  
 
 
-=== [gen7ou] Unfinished teams/Untitled 42 ===
+=== [gen7ou] Untitled 42 ===
 
 Zoroark  
 Ability: Illusion  
@@ -3043,7 +3155,7 @@ Ability: Serene Grace
 IVs: 0 Atk  
 
 
-=== [gen7ou] Pokemon/Untitled 34 ===
+=== [gen7ou] Untitled 34 ===
 
 Day Dream (Espeon) (F) @ Life Orb  
 Ability: Synchronize  
@@ -3201,7 +3313,7 @@ Jolly Nature
 - Zen Headbutt  
 
 
-=== [gen8] Pokemon/Untitled 48 ===
+=== [gen8] Untitled 48 ===
 
 Machamp @ Flame Orb  
 Ability: Guts  
@@ -3252,13 +3364,13 @@ Adamant Nature
 - Fire Punch  
 
 
-=== [gen8] Pokemon/Untitled 49 ===
+=== [gen8] Untitled 49 ===
 
 Mimikyu  
 Ability: Disguise  
 
 
-=== [gen7ou] Unfinished teams/Untitled 56 ===
+=== [gen7ou] Untitled 56 ===
 
 Gardevoir-Mega @ Gardevoirite  
 Ability: Pixilate  
@@ -3267,16 +3379,69 @@ Ability: Pixilate
 Ability: No Ability  
 
 
-=== [gen8] Unfinished teams/Untitled 55 ===
+=== [gen8] Untitled 55 ===
 
 
-=== [gen8] Edited Teams/Untitled 56 ===
+=== [gen8ou] Untitled 56 ===
 
-Chansey (F)  
-Ability: Natural Cure  
+Crawdaunt @ Life Orb  
+Ability: Adaptability  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Crabhammer  
+- Knock Off  
+- Aqua Jet  
+
+Urshifu @ Choice Band  
+Ability: Unseen Fist  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Wicked Blow  
+- Close Combat  
+- Iron Head  
+- U-turn  
+
+Rillaboom @ Choice Band  
+Ability: Grassy Surge  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Wood Hammer  
+- U-turn  
+- Grassy Glide  
+- Knock Off  
+
+Primarina @ Choice Specs  
+Ability: Liquid Voice  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Hyper Voice  
+- Moonblast  
+- Psychic  
+- Scald  
+
+Rotom-Heat @ Heavy-Duty Boots  
+Ability: Levitate  
+EVs: 248 HP / 84 SpD / 176 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Volt Switch  
+- Overheat  
+- Toxic  
+- Pain Split  
+
+Darmanitan @ Choice Scarf  
+Ability: Sheer Force  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Earthquake  
+- Flare Blitz  
+- Rock Slide  
+- Iron Head  
 
 
-=== [gen7ou] Extra Teams/Random team ===
+=== [gen7ou] Random team ===
 
 Primarina  
 Ability: Torrent  
@@ -3297,7 +3462,7 @@ Muk-Alola
 Ability: Poison Touch  
 
 
-=== [gen7ou] Unfinished teams/Untitled 67 ===
+=== [gen7ou] Untitled 67 ===
 
 Infernape  
 Ability: Blaze  
@@ -3309,28 +3474,7 @@ Incineroar
 Ability: Blaze  
 
 
-=== [gen7ou] Extra Teams/Random Team ===
-
-Sharpedo  
-Ability: Rough Skin  
-
-Lucario  
-Ability: Steadfast  
-
-Rotom-Mow  
-Ability: Levitate  
-
-Feraligatr  
-Ability: Torrent  
-
-Infernape  
-Ability: Blaze  
-
-Diancie  
-Ability: Clear Body  
-
-
-=== [gen8ou] Untitled 70 ===
+=== [gen7ou] Untitled 67 ===
 
 Amoonguss @ Black Sludge  
 Ability: Regenerator  
@@ -3352,7 +3496,7 @@ IVs: 0 Atk
 - Flamethrower  
 - Psyshock  
 
-Volcarona @ Heavy-Duty Boots  
+Volcarona @ Leftovers  
 Ability: Flame Body  
 EVs: 4 Def / 252 SpA / 252 Spe  
 Timid Nature  
@@ -3362,113 +3506,39 @@ IVs: 0 Atk
 - Psychic  
 - Bug Buzz  
 
-Aegislash @ Leftovers  
-Ability: Stance Change  
-EVs: 252 HP / 252 Atk / 4 SpD  
-Adamant Nature  
-- Swords Dance  
-- Shadow Sneak  
-- King's Shield  
-- Iron Head  
 
-Togekiss @ Quick Claw  
-Ability: Serene Grace  
+=== [gen7ou] Untitled 40 ===
+
+Slowbro-Mega @ Slowbronite  
+Ability: Shell Armor  
 EVs: 252 HP / 252 SpA / 4 SpD  
 Modest Nature  
 IVs: 0 Atk  
-- Ancient Power  
-- Air Slash  
-- Thunder Wave  
-- Roost  
+- Sleep Talk  
+- Calm Mind  
+- Rest  
+- Scald  
 
 
-=== [gen8ou] Untitled 71 ===
+=== [gen7ou] Random Team ===
 
-Conkeldurr @ Flame Orb  
-Ability: Guts  
-EVs: 252 HP / 252 Atk / 4 SpD  
-Adamant Nature  
-- Facade  
-- Mach Punch  
-- Drain Punch  
-- Knock Off  
+Sharpedo  
+Ability: Rough Skin  
 
-Togekiss @ Quick Claw  
-Ability: Serene Grace  
-EVs: 252 HP / 252 SpA / 4 SpD  
-Modest Nature  
-IVs: 0 Atk  
-- Ancient Power  
-- Air Slash  
-- Thunder Wave  
-- Roost  
+Lucario  
+Ability: Steadfast  
 
-Aegislash @ Leftovers  
-Ability: Stance Change  
-EVs: 252 HP / 252 Atk / 4 SpD  
-Adamant Nature  
-- Swords Dance  
-- Shadow Sneak  
-- King's Shield  
-- Iron Head  
-
-Mimikyu @ Life Orb  
-Ability: Disguise  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- Swords Dance  
-- Play Rough  
-- Leech Life  
-- Shadow Sneak  
-
-Hydreigon  
+Rotom-Mow  
 Ability: Levitate  
-IVs: 0 Atk  
-- Dark Pulse  
-- Dragon Pulse  
-- Earth Power  
-- Flamethrower  
 
-Jolteon @ Life Orb  
-Ability: Volt Absorb  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Shadow Ball  
-- Volt Switch  
-- Hyper Voice  
-- Weather Ball  
+Feraligatr  
+Ability: Torrent  
 
+Infernape  
+Ability: Blaze  
 
-=== [gen8ou] Untitled 72 ===
-
-Primarina  
-Ability: Liquid Voice  
-EVs: 252 HP / 252 SpA / 4 SpD  
-Modest Nature  
-IVs: 0 Atk  
-- Dazzling Gleam  
-- Sparkling Aria  
-- Ice Beam  
-- Energy Ball  
-
-Pelipper  
-Ability: Drizzle  
-EVs: 248 HP / 252 SpA / 8 SpD  
-Modest Nature  
-- Hurricane  
-- Weather Ball  
-- Ice Beam  
-- U-turn  
-
-Hawlucha  
-Ability: Limber  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- Flying Press  
-- Iron Head  
-- U-turn  
-- Zen Headbutt  
+Diancie  
+Ability: Clear Body  
 
 
 === [gen7ou] Elite Four Challenge/Elite Four Poison ===
@@ -3489,7 +3559,7 @@ EVs: 252 Atk / 4 SpD / 252 Spe
 Adamant Nature  
 - Strength Sap  
 - Poison Jab  
-- Body Slam  
+- Leech Life  
 - Power Whip  
 
 Salazzle (F) @ Focus Sash  
@@ -3535,12 +3605,12 @@ IVs: 0 Atk
 - Water Spout  
 
 Marowak-Alola @ Assault Vest  
-Ability: Cursed Body  
+Ability: Rock Head  
 EVs: 248 HP / 252 Atk / 8 SpD  
 Adamant Nature  
 - Bonemerang  
 - Bone Club  
-- Bone Rush  
+- Flare Blitz  
 - Shadow Bone  
 
 Rotom @ Life Orb  
@@ -3593,7 +3663,7 @@ Jolly Nature
 - Ice Fang  
 - Psychic Fangs  
 - Poison Fang  
-- Crunch  
+- Liquidation  
 
 
 === [gen7ou] Elite Four Challenge/Elite Four Bug ===
@@ -3621,93 +3691,43 @@ Durant @ Life Orb
 Ability: Hustle  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
-- First Impression  
+- X-Scissor  
 - Superpower  
-- Rock Slide  
+- Crunch  
 - Iron Head  
 
 Vivillon-Tundra @ Focus Sash  
 Ability: Compound Eyes  
-Shiny: Yes  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
 IVs: 0 Atk  
-- Hurricane  
 - Psychic  
-- Bug Buzz  
-- Energy Ball  
-
-
-=== [gen7ou] Theme Teams/Bee Hive ===
-
-
-=== [gen8] Theme Teams/Untitled 77 ===
-
-Dragalge  
-Ability: Poison Point  
-
-
-=== [gen7ou] Elite Four Challenge/Ash Ketchum Kalos Team ===
-
-Pikachu @ Light Ball  
-Ability: Lightning Rod  
-EVs: 252 Atk / 4 SpD / 252 Spe  
-Jolly Nature  
-- Extreme Speed  
-- Volt Tackle  
-- Brick Break  
-- Knock Off  
-
-Greninja-Ash (M) @ Life Orb  
-Ability: Battle Bond  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-- Water Shuriken  
-- Ice Beam  
-- Dark Pulse  
-- Scald  
-
-Goodra @ Choice Specs  
-Ability: Sap Sipper  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
-- Draco Meteor  
-- Fire Blast  
-- Hydro Pump  
-- Thunderbolt  
-
-Hawlucha @ Life Orb  
-Ability: Unburden  
-EVs: 96 HP / 252 Atk / 36 SpD / 124 Spe  
-Adamant Nature  
-- Acrobatics  
-- Swords Dance  
-- High Jump Kick  
-- Roost  
-
-Talonflame @ Flyinium Z  
-Ability: Gale Wings  
-EVs: 252 Atk / 4 Def / 252 Spe  
-Jolly Nature  
-- Swords Dance  
-- Brave Bird  
-- Flare Blitz  
-- Taunt  
-
-Noivern @ Leftovers  
-Ability: Infiltrator  
-EVs: 252 SpA / 4 SpD / 252 Spe  
-Timid Nature  
 - Hurricane  
-- Taunt  
-- Roost  
-- U-turn  
+- Bug Buzz  
 
 
 === [gen8] Untitled 80 ===
 
 
-=== [gen7uu] Extra Teams/Untitled 81 ===
+=== [gen7ou] Elite Four Challenge/Untitled 86 ===
+
+Leavanny  
+Ability: Swarm  
+
+Volcarona  
+Ability: Flame Body  
+Level: 90  
+
+Araquanid  
+Ability: Water Bubble  
+
+Galvantula  
+Ability: Compound Eyes  
+
+Victini  
+Ability: Victory Star  
+IVs: 0 Atk  
+
+
+=== [gen7uu] Untitled 81 ===
 
 Mantis (Lurantis) (F) @ Grassium Z  
 Ability: Contrary  
@@ -3754,7 +3774,244 @@ Ability: Magic Bounce
 IVs: 0 Atk  
 
 
-=== [gen7ou] Elite Four Challenge/My Sun and Moon Team ===
+=== [gen7ou] Theme Teams/Ash Ketchum Kalos Team ===
+
+Pikachu @ Light Ball  
+Ability: Static  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Extreme Speed  
+- Volt Tackle  
+- Brick Break  
+- Knock Off  
+
+Greninja-Ash (M) @ Life Orb  
+Ability: Battle Bond  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Water Shuriken  
+- Ice Beam  
+- Dark Pulse  
+- Scald  
+
+Goodra @ Choice Specs  
+Ability: Sap Sipper  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Flamethrower  
+- Sludge Bomb  
+- Thunderbolt  
+
+Hawlucha @ Life Orb  
+Ability: Unburden  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Poison Jab  
+- Swords Dance  
+- High Jump Kick  
+- Roost  
+
+Talonflame @ Flyinium Z  
+Ability: Gale Wings  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Brave Bird  
+- Flare Blitz  
+- Roost  
+
+Noivern @ Leftovers  
+Ability: Infiltrator  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Air Slash  
+- Boomburst  
+- Heat Wave  
+
+
+=== [gen7ou] Untitled 84 ===
+
+Scizor @ Choice Band  
+Ability: Technician  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Bullet Punch  
+- U-turn  
+- Roost  
+- Defog  
+
+Sandslash-Alola @ Life Orb  
+Ability: Slush Rush  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Iron Head  
+- Earthquake  
+- Icicle Crash  
+
+Keldeo @ Choice Scarf  
+Ability: Justified  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Timid Nature  
+- Scald  
+- Secret Sword  
+- Hydro Pump  
+- Hidden Power [Electric]  
+
+Aerodactyl @ Aerodactylite  
+Ability: Tough Claws  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Stone Edge  
+- Earthquake  
+- Aerial Ace  
+- Hone Claws  
+
+Raikou @ Choice Specs  
+Ability: Pressure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Hidden Power [Ice]  
+- Volt Switch  
+- Thunderbolt  
+- Calm Mind  
+
+Gigalith @ Smooth Rock  
+Ability: Sand Stream  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Stone Edge  
+- Earthquake  
+- Stealth Rock  
+- Toxic  
+
+
+=== [gen7ou] Team by Namielle ===
+
+Beedrill-Mega @ Beedrillite  
+Ability: Adaptability  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- U-turn  
+- Poison Jab  
+- Toxic Spikes  
+- Swords Dance  
+
+Victini @ Choice Band  
+Ability: Victory Star  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- V-create  
+- U-turn  
+- Bolt Strike  
+- Zen Headbutt  
+
+Volcarona @ Leftovers  
+Ability: Flame Body  
+EVs: 252 HP / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Quiver Dance  
+- Hidden Power [Ground]  
+- Bug Buzz  
+- Fire Blast  
+
+Tornadus-Therian (M) @ Flyinium Z  
+Ability: Regenerator  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+- Hurricane  
+- Knock Off  
+- U-turn  
+- Defog  
+
+Greninja-Ash (M) @ Choice Specs  
+Ability: Battle Bond  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Water Shuriken  
+- Spikes  
+- Hydro Pump  
+- Dark Pulse  
+
+Amoonguss @ Black Sludge  
+Ability: Regenerator  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+- Stomping Tantrum  
+- Spore  
+- Giga Drain  
+- Sludge Bomb  
+
+
+=== [gen7ou] Copy of Absol-Mega OU Team ===
+
+Reaper (Absol-Mega) (M) @ Absolite  
+Ability: Justified  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Sucker Punch  
+- Play Rough  
+- Superpower  
+
+Zapdos @ Focus Sash  
+Ability: Static  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Hidden Power [Ice]  
+- Thunderbolt  
+- Heat Wave  
+- Volt Switch  
+
+Gliscor @ Toxic Orb  
+Ability: Poison Heal  
+EVs: 252 HP / 184 Def / 72 Spe  
+Impish Nature  
+- Toxic  
+- Earthquake  
+- Roost  
+- Facade  
+
+Ashe (Ninetales) (F) @ Focus Sash  
+Ability: Drought  
+Shiny: Yes  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dark Pulse  
+- Solar Beam  
+- Flamethrower  
+- Hidden Power [Ground]  
+
+Nightmare (Umbreon) (M) @ Leftovers  
+Ability: Synchronize  
+Shiny: Yes  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Careful Nature  
+- Wish  
+- Curse  
+- Payback  
+- Heal Bell  
+
+Mantis (Lurantis) @ Grassium Z  
+Ability: Contrary  
+Shiny: Yes  
+EVs: 248 HP / 252 SpA / 8 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Weather Ball  
+- Leaf Storm  
+- Signal Beam  
+- Synthesis  
+
+
+=== [gen7ou] Theme Teams/My Sun and Moon Team ===
 
 Lurantis @ Grassium Z  
 Ability: Leaf Guard  
@@ -3813,5 +4070,18 @@ IVs: 0 Atk
 - Shadow Ball  
 - Dazzling Gleam  
 - Grass Knot  
+
+
+=== [gen8] Untitled 86 ===
+
+Lycanroc  
+Ability: Keen Eye  
+
+Lycanroc-Midnight  
+Ability: Keen Eye  
+IVs: 0 Atk  
+
+Lycanroc-Dusk  
+Ability: Tough Claws  
 
 
