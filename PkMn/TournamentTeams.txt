@@ -1,0 +1,350 @@
+
+=== [gen8doublesou] Gen 8 Doubles OU Team ===
+
+Genesect @ Assault Vest  
+Ability: Download  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Blizzard  
+- Flamethrower  
+- Iron Head  
+- U-turn  
+
+Ninetales-Alola @ Light Clay  
+Ability: Snow Cloak  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Blizzard  
+- Aurora Veil  
+- Dazzling Gleam  
+- Encore  
+
+Zygarde @ Leftovers  
+Ability: Aura Break  
+EVs: 252 HP / 252 Atk / 4 SpD  
+Adamant Nature  
+- Thousand Arrows  
+- Extreme Speed  
+- Crunch  
+- Protect  
+
+Zeraora @ Assault Vest  
+Ability: Volt Absorb  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Fake Out  
+- Plasma Fists  
+- Play Rough  
+- Volt Switch  
+
+Milotic @ Leftovers  
+Ability: Competitive  
+EVs: 252 HP / 56 Def / 116 SpA / 84 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Coil  
+- Hypnosis  
+- Muddy Water  
+- Recover  
+
+Incineroar @ Sitrus Berry  
+Ability: Intimidate  
+EVs: 252 HP / 148 Def / 108 SpD  
+Impish Nature  
+- Fake Out  
+- Knock Off  
+- Flare Blitz  
+- Parting Shot  
+
+
+=== [gen8ou] Gen 8 OU Team ===
+
+Blaze (Blaziken) @ Focus Sash  
+Ability: Speed Boost  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Adamant Nature  
+- Swords Dance  
+- Blaze Kick  
+- Close Combat  
+- Earthquake  
+
+Cleffy (Clefable) (F) @ Leftovers  
+Ability: Unaware  
+EVs: 252 HP / 252 Def / 4 SpA  
+Bold Nature  
+IVs: 0 Atk  
+- Protect  
+- Wish  
+- Calm Mind  
+- Moonblast  
+
+Chansey (F) @ Eviolite  
+Ability: Natural Cure  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+- Soft-Boiled  
+- Heal Bell  
+- Toxic  
+- Seismic Toss  
+
+Knight (Corviknight) @ Leftovers  
+Ability: Pressure  
+EVs: 252 HP / 28 Def / 228 SpD  
+Careful Nature  
+- Defog  
+- Roost  
+- U-turn  
+- Brave Bird  
+
+Spectrier @ Heavy-Duty Boots  
+Ability: Grim Neigh  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Shadow Ball  
+- Dark Pulse  
+- Substitute  
+- Nasty Plot  
+
+Reaper (Absol) (M) @ Focus Sash  
+Ability: Justified  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Knock Off  
+- Sucker Punch  
+- Close Combat  
+- Play Rough  
+
+
+=== [gen8uu] Gen 8 UU Team ===
+
+Victini @ Assault Vest  
+Ability: Victory Star  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Bolt Strike  
+- V-create  
+- U-turn  
+- Zen Headbutt  
+
+Glastrier @ Heavy-Duty Boots  
+Ability: Chilling Neigh  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- High Horsepower  
+- Close Combat  
+- Icicle Crash  
+- Swords Dance  
+
+Keldeo-Resolute @ Assault Vest  
+Ability: Justified  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Secret Sword  
+- Surf  
+- Air Slash  
+- Flip Turn  
+
+Roserade @ Black Sludge  
+Ability: Natural Cure  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Leaf Storm  
+- Sludge Bomb  
+- Spikes  
+- Stun Spore  
+
+Mimikyu @ Life Orb  
+Ability: Disguise  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Swords Dance  
+- Play Rough  
+- Shadow Sneak  
+- Leech Life  
+
+Talonflame @ Heavy-Duty Boots  
+Ability: Gale Wings  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Brave Bird  
+- Flare Blitz  
+- Roost  
+- Swords Dance  
+
+
+=== [gen8nu] Gen 8 NU Team ===
+
+Absol  
+Ability: Pressure  
+
+Clawitzer @ Choice Specs  
+Ability: Mega Launcher  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+- Water Pulse  
+- Dark Pulse  
+- Ice Beam  
+- U-turn  
+
+Gallade (M) @ Life Orb  
+Ability: Justified  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Zen Headbutt  
+- Knock Off  
+- Swords Dance  
+
+Toxicroak @ Focus Sash  
+Ability: Poison Touch  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Bullet Punch  
+- Drain Punch  
+- Fake Out  
+- Poison Jab  
+
+Salazzle (F) @ Heavy-Duty Boots  
+Ability: Corrosion  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Flamethrower  
+- Sludge Bomb  
+- Toxic  
+
+Whimsicott @ Choice Specs  
+Ability: Prankster  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Moonblast  
+- U-turn  
+- Energy Ball  
+- Defog  
+
+
+=== [gen8ru] Gen 8 RU Team ===
+
+Diancie @ Assault Vest  
+Ability: Clear Body  
+EVs: 248 HP / 252 SpA / 8 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Draining Kiss  
+- Earth Power  
+- Psychic  
+- Mystical Fire  
+
+Copper (Copperajah) @ Assault Vest  
+Ability: Heavy Metal  
+EVs: 252 Atk / 172 SpD / 84 Spe  
+Adamant Nature  
+- Heavy Slam  
+- Power Whip  
+- Earthquake  
+- Heat Crash  
+
+Nightmare (Umbreon) (M) @ Leftovers  
+Ability: Synchronize  
+Shiny: Yes  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+- Wish  
+- Protect  
+- Heal Bell  
+- Foul Play  
+
+Dragalge (M) @ Heavy-Duty Boots  
+Ability: Adaptability  
+Shiny: Yes  
+EVs: 248 HP / 116 SpA / 144 Spe  
+Modest Nature  
+- Draco Meteor  
+- Sludge Bomb  
+- Flip Turn  
+- Scald  
+
+Mienshao (F) @ Assault Vest  
+Ability: Regenerator  
+Shiny: Yes  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- High Jump Kick  
+- U-turn  
+- Fake Out  
+- Blaze Kick  
+
+Articuno-Galar @ Heavy-Duty Boots  
+Ability: Competitive  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Air Slash  
+- Freezing Glare  
+- Shadow Ball  
+- Ancient Power  
+
+
+=== [gen8pu] Gen 8 PU Team ===
+
+Silvally-Poison @ Poison Memory  
+Ability: RKS System  
+EVs: 252 Atk / 4 SpA / 252 Spe  
+Hasty Nature  
+- Multi-Attack  
+- Crunch  
+- Flamethrower  
+- Swords Dance  
+
+Lurantis @ Leppa Berry  
+Ability: Contrary  
+EVs: 248 HP / 8 Atk / 252 SpD  
+Sassy Nature  
+- Leaf Storm  
+- Superpower  
+- Aromatherapy  
+- Synthesis  
+
+Corsola-Galar @ Eviolite  
+Ability: Cursed Body  
+EVs: 252 HP / 4 Def / 252 SpD  
+Calm Nature  
+IVs: 0 Atk  
+- Strength Sap  
+- Stealth Rock  
+- Will-O-Wisp  
+- Night Shade  
+
+Morpeko @ Heavy-Duty Boots  
+Ability: Hunger Switch  
+EVs: 248 HP / 8 Atk / 252 Spe  
+Jolly Nature  
+- Aura Wheel  
+- Rapid Spin  
+- Parting Shot  
+- Protect  
+
+Glaceon @ Choice Specs  
+Ability: Ice Body  
+EVs: 4 Def / 252 SpA / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Freeze-Dry  
+- Shadow Ball  
+- Water Pulse  
+
+Kangaskhan (F) @ Silk Scarf  
+Ability: Scrappy  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Sucker Punch  
+- Fake Out  
+- Double-Edge  
+- Drain Punch  
+
+
