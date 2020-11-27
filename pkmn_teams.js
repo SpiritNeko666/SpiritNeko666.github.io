@@ -1,5 +1,7 @@
 function setup() {
 createA('PkMn/All_Files.txt', 'All Files');
+createA('PkMn/Tournament_Teams.txt', 'Tournament Teams');
+
 createP('');
 createA('PkMn/Team_1.txt', 'Team_1');
 createA('PkMn/Team_2.txt', 'Team_2');
