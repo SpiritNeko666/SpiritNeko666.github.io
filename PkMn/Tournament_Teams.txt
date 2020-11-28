@@ -1,4 +1,3 @@
-
 === [gen8doublesou] Gen 8 Doubles OU Team ===
 
 Genesect @ Assault Vest  
@@ -90,6 +89,7 @@ Bold Nature
 
 Knight (Corviknight) @ Leftovers  
 Ability: Pressure  
+Shiny: Yes  
 EVs: 252 HP / 28 Def / 228 SpD  
 Careful Nature  
 - Defog  
@@ -109,7 +109,6 @@ IVs: 0 Atk
 
 Reaper (Absol) (M) @ Focus Sash  
 Ability: Justified  
-Shiny: Yes  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
 - Knock Off  
@@ -177,17 +176,24 @@ Jolly Nature
 
 === [gen8nu] Gen 8 NU Team ===
 
-Absol  
-Ability: Pressure  
+Absol @ Focus Sash  
+Ability: Justified  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Close Combat  
+- Sucker Punch  
+- Knock Off  
+- Play Rough  
 
 Clawitzer @ Choice Specs  
 Ability: Mega Launcher  
-EVs: 252 SpA / 4 SpD / 252 Spe  
+EVs: 252 HP / 252 SpA / 4 SpD  
 Modest Nature  
+IVs: 0 Atk  
 - Water Pulse  
 - Dark Pulse  
 - Ice Beam  
-- U-turn  
+- Aura Sphere  
 
 Gallade (M) @ Life Orb  
 Ability: Justified  
