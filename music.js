@@ -85,7 +85,7 @@ function setup() {
   button9.style('color', "blue");
   
   button_GuitarVsPiano = createButton('Guitar Vs Piano 1.2');
-  button_GuitarVsPiano.mousePressed(playSong16);
+  button_GuitarVsPiano.mousePressed(playGuitarVsPiano);
   button_GuitarVsPiano.style('background-color', "Coral");
   button_GuitarVsPiano.style('color', "LightSeaGreen");
 
