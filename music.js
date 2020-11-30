@@ -15,6 +15,7 @@ function preload() {
   MySong2 = loadSound('music/My Second Song.mp3');
   Megalovania = loadSound('music/Megalovania.mp3');
   Waterfall = loadSound('music/Waterfall.mp3');
+  GuitarVsPiano = loadSound('music/Guitar Vs Piano 1.2.mp3');
 
 }
 
@@ -39,6 +40,7 @@ function setup() {
   analyzer.setInput(MySong2);
   analyzer.setInput(Megalovania);
   analyzer.setInput(Waterfall);
+  analyzer.setInput(GuitarVsPiano);
 
 
   button5 = createButton('A Heart Of Ice');
@@ -81,6 +83,11 @@ function setup() {
   button9.mousePressed(playSong9);
         button9.style('background-color', "LightSeaGreen");
   button9.style('color', "blue");
+  
+  button_GuitarVsPiano = createButton('Guitar Vs Piano 1.2');
+  button_GuitarVsPiano.mousePressed(playSong16);
+  button_GuitarVsPiano.style('background-color', "Coral");
+  button_GuitarVsPiano.style('color', "LightSeaGreen");
 
   button14 = createButton('PauseMusic');
   button14.mousePressed(pauseMusic);
@@ -101,6 +108,7 @@ function playSong1() {
   MySong2.stop()
 Megalovania.stop()
 Waterfall.stop()
+GuitarVsPiano.stop()
 
 
   AlphysTakesAction.play();
@@ -116,7 +124,7 @@ function playSong2() {
   MySong2.stop()
 Megalovania.stop()
 Waterfall.stop()
-
+GuitarVsPiano.stop()
 
   AsgoreIntro.play();
 
@@ -131,7 +139,7 @@ function playSong3() {
   MySong2.stop()
 Megalovania.stop()
 Waterfall.stop()
-
+GuitarVsPiano.stop()
   HopesAndDreams.play();
 }
 
@@ -144,7 +152,7 @@ function playSong4() {
   MySong.stop();
   MySong2.stop()
 Megalovania.stop()
-
+GuitarVsPiano.stop()
 Waterfall.stop()
 
   SpiderDance.play();
@@ -159,13 +167,24 @@ function playSong5() {
   MySong2.stop()
 Megalovania.stop()
 Waterfall.stop()
-
+GuitarVsPiano.stop()
 
   MySong.play();
 }
 
 
-
+function playGuitarVsPiano() {
+  AlphysTakesAction.stop();
+  AsgoreIntro.stop();
+  HopesAndDreams.stop();
+  SpiderDance.stop();
+  MySong.stop();
+  MySong2.stop()
+  Megalovania.stop()
+  Waterfall.stop()
+  GuitarVsPiano.stop()
+  GuitarVsPiano.play();
+}
 
 function playSong7() {
     AlphysTakesAction.stop();
@@ -175,7 +194,7 @@ function playSong7() {
   MySong.stop();
   MySong2.stop()
 Megalovania.stop()
-
+GuitarVsPiano.stop()
 Waterfall.stop()
 
   MySong2.play();
@@ -190,7 +209,7 @@ function playSong8() {
   MySong2.stop()
 Megalovania.stop()
 Waterfall.stop()
-
+GuitarVsPiano.stop()
   Megalovania.play();
 }
 function playSong9() {
@@ -202,9 +221,10 @@ function playSong9() {
   MySong2.stop()
 Megalovania.stop()
 Waterfall.stop()
-
+GuitarVsPiano.stop()
   Waterfall.play();
 }
+
 function pauseMusic() {
   AlphysTakesAction.pause();
   AsgoreIntro.pause();
@@ -214,6 +234,7 @@ function pauseMusic() {
   MySong2.pause();
 Megalovania.pause();
 Waterfall.pause();
+GuitarVsPiano.pause()  
 }
 
 function stopMusic() {
@@ -225,7 +246,7 @@ function stopMusic() {
   MySong2.stop()
 Megalovania.stop()
 Waterfall.stop()
-
+GuitarVsPiano.stop()
 }
 
 function draw() {
@@ -275,7 +296,8 @@ fill('blue')
   fill('Red')
    if (AsgoreIntro.isPlaying())
   fill('FireBrick')
-
+  if (GuitarVsPiano.isPlaying())
+    fill('Coral')
   
   for (let i = 0; i < spectrum.length; i++) {
     let x = map(i, 0, spectrum.length, 0, width);
