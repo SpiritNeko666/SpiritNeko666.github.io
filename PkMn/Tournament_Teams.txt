@@ -325,14 +325,15 @@ IVs: 0 Atk
 - Will-O-Wisp  
 - Night Shade  
 
-Morpeko @ Heavy-Duty Boots  
-Ability: Hunger Switch  
-EVs: 248 HP / 8 Atk / 252 Spe  
-Jolly Nature  
-- Aura Wheel  
+Turtonator @ Heavy-Duty Boots  
+Ability: Shell Armor  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Modest Nature  
+IVs: 0 Atk  
 - Rapid Spin  
-- Parting Shot  
-- Protect  
+- Dragon Pulse  
+- Flamethrower  
+- Shell Smash  
 
 Glaceon @ Choice Specs  
 Ability: Ice Body  
@@ -344,13 +345,13 @@ IVs: 0 Atk
 - Shadow Ball  
 - Water Pulse  
 
-Kangaskhan (F) @ Silk Scarf  
-Ability: Scrappy  
-EVs: 252 Atk / 4 SpD / 252 Spe  
+Boltund (M) @ Life Orb  
+Ability: Strong Jaw  
+EVs: 252 Atk / 4 Def / 252 Spe  
 Jolly Nature  
-- Sucker Punch  
-- Fake Out  
-- Double-Edge  
-- Drain Punch  
+- Thunder Fang  
+- Fire Fang  
+- Crunch  
+- Psychic Fangs  
 
 
