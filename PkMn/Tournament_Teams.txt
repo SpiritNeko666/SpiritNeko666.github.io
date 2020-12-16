@@ -9,8 +9,8 @@ Hasty Nature
 - Iron Head  
 - U-turn  
 
-Ninetales-Alola @ Light Clay  
-Ability: Snow Cloak  
+Ashe (Ninetales-Alola) (F) @ Light Clay  
+Ability: Snow Warning  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
